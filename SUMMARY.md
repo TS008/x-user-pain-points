@@ -1,62 +1,36 @@
-# X user pain points — summary
+# X user pain points: AI agents and dev tooling
 
-**Generated:** 2026-10-15 (Asia/Shanghai)  
-**File:** `/workspace/x-pain-points/x-user-pain-points.csv`  
-**Total rows:** 80  
-**Languages:** {'en': 59, 'zh': 20, 'other': 1}  
-**GitHub push:** left for parent (not done by this subagent)
+File: `x-user-pain-points.csv`, 329 rows. Rows pp-001..pp-080 come from round 1; rows pp-081..pp-329 come from round 2 (deep mining, 2026-10-15).
+Window: posts from 2026-07-17 to 2026-10-15, retweets excluded. Every row links to a real post returned by the X API.
 
-## Top categories
+## Stats
+- Total rows: 329 (80 old, 249 new)
+- Languages: en 261, zh 55, ja 12, other 1 (no KO rows survived triage)
+- X read calls used today: 133 of 1000 (counter at 867 left). About 82 tool-result files were processed in this mining work; the 1000-minus-left figure is the authoritative count.
+- Raw posts scanned in round 2: 1,956 (1,893 unique posts in the pool)
 
-- **cost**: 12
-- **UX**: 11
-- **reliability**: 11
-- **memory**: 10
-- **context**: 9
-- **ToB**: 5
-- **tools**: 5
-- **sandbox**: 5
-- **workflow**: 5
-- **integration**: 4
-- **scheduling**: 3
+## Category counts (all rows)
+integration 45, quota 42, reliability 41, cost 35, UX 28, tools 16, memory 15, context 11, workflow 10, billing 10, multi-agent 10, scheduling 9, observability 9, browser 9, ToB 8, sandbox 8, permissions 5, security 4, support 3, voice 3, evals 3, privacy 3, deploy 2.
+New categories in round 2: quota, billing, multi-agent, observability, browser, permissions, security, support, voice, evals, privacy, deploy. Round-1 rows are unchanged.
 
-## Theme summary (product-facing)
+## Top new themes
+1. Quota shock across tools: Codex weekly and 5-hour limits, Claude Code cuts, the Cursor plan change that dropped Opus and third-party models, Grok Bot / X Subscription weekly quota gone in a day, and the tight Gemini 4 Argon quota in Antigravity. Strong in ZH and JA.
+2. Opaque or wrong billing: Antigravity billing cached tokens at full price, banked resets being deleted, Windsurf credits changing after the Devin takeover, failed retries eating the limit.
+3. Model regressions and over-engineering: Codex Sol updates, Devin regression, GPT slowness. Over-engineering loops also burn credits.
+4. Multi-agent coordination: no view of which parallel agent is stuck or waiting for input, context sync between agents, shared memory vaults corrupted by concurrent edits.
+5. Observability: a clean diff hides the retries and model switches behind it, LangGraph/LangChain failures are hard to trace, agent failures are silent.
+6. Grok Bot specifics: slow computer use and cloud PC, no SSH, built-in skills that can't be deleted, weekly quota too small.
+7. Security and privacy: secrets kept in agent transcripts, weak AI-written auth and webhook code, liability for phone agents.
 
-- **Persistent memory is still the #1 lived pain** — users re-explain goals, lose settled decisions after compact/context exhaustion, and watch corrected habits return next session (Cursor/Claude Code/Codex/Grok Bot alike).
-- **Context rot & tool noise** — MCP dumps, shell output, and unused built-in skills fill windows; advertised model context often exceeds harness/UI limits (Antigravity ~128–160k; auto-compact while UI shows low %).
-- **Quota cliffs break mid-task** — weekly/5-hour walls, split Premium vs Grok Bot vs Fable limits, image-tool rate limits, and on-demand spend spikes leave work unfinished for hours.
-- **Sandbox & spend safety** — fear of `rm -rf` / dropping prod DBs, AWS autopilot bills, credit-card exposure, and missing hard spend caps / least-privilege defaults.
-- **Always-on & scheduling gaps** — sleep/reboot kills home agents; no wake-on-command-complete (polling burns quota); machine connectivity drops for registered desktops.
-- **Multi-agent / multi-harness friction** — cannot fork sessions, hard to run many agents with shared state, transcripts do not port Claude Code ↔ Codex ↔ Cursor, window management becomes chaos.
-- **Account / geo / subscription reliability (esp. ZH)** — Claude mass bans + no refunds, Cursor vs X login mismatch for Grok Bot, corporate networks blocking models.
-- **Intrusive assistants & forced features** — Copilot in Excel/Word/letters; forced PR review burning personal credits; desire for true disable and opt-in.
+## Query angles used (round 2)
+- Products: Cursor, Claude Code, Codex, Copilot, Windsurf, Devin, Replit, Lovable, Bolt, v0, Manus, Grok/Grok Bot, Gemini CLI, Antigravity, n8n, LangGraph/CrewAI/LangChain, MCP, OpenClaw/Hermes.
+- Pains: memory, context, compaction, quota, cost, sandbox, permissions, scheduling, browser, evals, observability, deploy, enterprise, multi-agent, voice, privacy.
+- Phrasing: English plus ZH (额度, 降智, 太贵, 坑, 隐私), JA (制限, 使えない, 困る) and KO.
+- Reply mining with `conversation_id:` on about 9 high-reply seeds, plus `get_posts_quoted_posts`. Sort orders mixed between relevancy and recency.
 
-## Search queries used (16 calls via `x.search_posts_all`)
-
-1. `AI agent (memory OR remember OR forget...) (wish OR hate OR frustrat...)`
-2. `(Cursor OR "Claude Code" OR Copilot) (wish OR frustrat OR hate OR broken...)`
-3. `"AI agent" ("wish I could" OR "I wish" OR "please add" OR "doesn't work"...)`
-4. `(agent OR 助手 OR AI助手) (能不能 OR 为什么不能 OR 讨厌 OR 痛点 OR 记忆...)`
-5. `(Cursor OR "Claude Code") (frustrat OR annoying OR broken...) -is:retweet`
-6. `("AI agent" OR ChatGPT OR Claude OR Grok) ("doesn't remember" OR forgot OR "rebuild context"...) -is:retweet`
-7. `("AI agent" OR Cursor OR "Claude Code") (sandbox OR tool OR cron OR MCP...) (pain OR frustrat...) -is:retweet`
-8. `(Cursor OR Claude OR ChatGPT OR Grok OR agent) (记不住 OR 上下文 OR 沙箱 OR 痛点...) -is:retweet`
-9. `(ChatGPT OR Claude OR Cursor OR Copilot) (forgets OR "context window" OR compacting...) -is:retweet [relevancy]`
-10. `("AI agent" OR "coding agent" OR "Claude Code" OR Cursor) ("I wish" OR "please fix" OR annoying...) -is:retweet lang:en [relevancy]`
-11. `(Claude Code OR Cursor OR "Grok Bot" OR ChatGPT...) (额度 OR 记不住 OR 沙箱 OR 封号...) -is:retweet [relevancy]`
-12. `(Copilot OR Cursor OR "Claude Code" OR "Grok Bot") (intrusive OR quota OR "rate limit"...) -is:retweet [relevancy]`
-13. `(sandbox OR "rm -rf" OR permission OR approval) ("Claude Code" OR Cursor OR "AI agent"...) -is:retweet [relevancy]`
-14. `("scheduled" OR cron OR "always on" OR "long running") ("Claude Code" OR Cursor OR "Grok Bot"...) -is:retweet [relevancy]`
-15. `(希望 OR 能不能 OR 为什么不能 OR 痛点...) (Cursor OR "Claude Code" OR "Grok Bot" OR agent...) -is:retweet [relevancy]`
-16. `(Copilot) (menace OR intrusive OR "why can't" OR hate OR "turn off"...) -is:retweet lang:en [relevancy]`
-
-## Method notes / caveats
-
-- Window: roughly last 90 days (`start_time` 2026-07-17Z) mixed **recency** and **relevancy** sorts; `-is:retweet` on later passes.
-- Inclusion: concrete actionable pain only; pure ads, empty slogans, crypto pumps, and RTs excluded. Some posts that pitch a fix still included when they clearly state a real user pain.
-- Engagement is **not** a filter — low-like posts kept if actionable.
-- `pain_point_summary` is English for product feedback; `verbatim_excerpt` keeps original language.
-- Deduped by post id/url (e.g. edit-history duplicates of the same memory rant kept as one row).
-- Impressions taken from `public_metrics.impression_count` when present.
-- Not exhaustive of all X discourse; ~16 search passes under rate limits. Quality prioritized over padding.
-- **Do not invent posts** — every `post_url` came from a live `search_posts_all` result.
+## Caveats
+- Only about 13% of today's quota was used, well short of the 90% target. Triaging every batch by hand was the bottleneck, so I stopped early.
+- Keyword filters and a manual pass removed ads, course sellers, bots and news echoes. Some judgment calls remain.
+- Engagement figures are a snapshot taken at fetch time. Impressions are sometimes missing.
+- Product and model names (e.g. Sol, Argon, Opus 5.5) are as the users wrote them.
+- Raw data: `raw/pool.jsonl` (all scanned posts), `raw/picks.txt` (picks), `build.py` (rebuilds the CSV). Backup of the first 80 rows: `raw/base80.csv`.
