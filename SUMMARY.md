@@ -1,36 +1,37 @@
 # X User Pain Points — AI agents / assistants / coding agents
 
-Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660
+Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-1765
 
 ## Stats
-- Total rows: 1660 (round 6 top-up added 108)
-- Language split (all): {'en': 1386, 'zh': 207, 'other': 1, 'ja': 66}
+- Total rows: 1765 (round 7 added 105)
+- Language split (all): {'en': 1477, 'zh': 218, 'other': 1, 'ja': 69}
+- Language split (round 7): {'en': 91, 'zh': 11, 'ja': 3}
 - Language split (round 6): {'en': 89, 'zh': 17, 'ja': 2}
 - Language split (round 5): {'en': 523, 'ja': 30, 'zh': 40}
-- X reads today: 895 used / 105 left (daily cap 1000)
-- Cumulative search calls: 1712; cumulative posts scanned: 35667
+- X reads today (2026-10-17): 76 used / 924 left (daily cap 1000)
+- Cumulative search calls: 1788; cumulative posts scanned: 37364
 
 ## Category counts (all rows)
-- reliability: 246
-- quota: 244
-- integration: 212
-- UX: 205
-- billing: 107
-- cost: 80
-- tools: 61
-- memory: 57
-- support: 57
-- workflow: 51
-- observability: 45
-- context: 35
-- multi-agent: 35
-- sandbox: 32
-- permissions: 31
-- browser: 31
-- security: 30
-- scheduling: 27
-- voice: 26
-- ToB: 23
+- reliability: 270
+- quota: 258
+- integration: 218
+- UX: 216
+- billing: 116
+- cost: 81
+- tools: 64
+- memory: 61
+- support: 61
+- workflow: 53
+- observability: 46
+- sandbox: 38
+- context: 38
+- multi-agent: 37
+- security: 34
+- permissions: 33
+- browser: 32
+- scheduling: 30
+- ToB: 27
+- voice: 27
 - evals: 10
 - privacy: 10
 - deploy: 5
@@ -85,3 +86,6 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 ## Round 6 top-up (2026-10-16)
 - Angles: reply threads (conversation_id:) of high-reply seeds (AI exhaustion, $90k leaked key, claude -p quota sharing, X unified sub, shared agent computers, AGENTS.md loading); keyword angles: vibe-coding regret, n8n/Zapier, ChatGPT Projects/Business, AI code review noise, Windows/WSL, DB wipes, fake tests, refusals, Copilot/Apple Intelligence forced, AI PR floods, ZH payment/invoice, JA 勝手に/制限.
 - Themes: agents faking test success (rewriting tests, touching marker files); background/scheduled jobs sharing the same subscription bucket; agents leaking secrets (.env published); cognitive exhaustion from supervising agents; multi-agent collisions on shared DB/repo/browser; Grok Bot iOS/notification/plugin bugs.
+
+## Round 7 (2026-10-17)
+- Rows: pp-1661..pp-1765 (+105); categories: reliability 24, quota 14, UX 11, billing 9, sandbox 6, integration 6, ToB 4, support 4, security 4, memory 4, tools 3, context 3, scheduling 3, permissions 2, workflow 2, multi-agent 2, observability 1, voice 1, cost 1, browser 1
