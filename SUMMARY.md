@@ -1,39 +1,39 @@
 # X User Pain Points — AI agents / assistants / coding agents
 
-Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-2363
+Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-2432
 
 ## Stats
-- Total rows: 2363 (round 7 added 703)
-- Language split (all): {'en': 2000, 'zh': 280, 'other': 1, 'ja': 82}
-- Language split (round 7): {'en': 614, 'zh': 73, 'ja': 16}
+- Total rows: 2432 (round 7 added 772)
+- Language split (all): {'en': 2059, 'zh': 289, 'other': 1, 'ja': 83}
+- Language split (round 7): {'en': 673, 'zh': 82, 'ja': 17}
 - Language split (round 6): {'en': 89, 'zh': 17, 'ja': 2}
 - Language split (round 5): {'en': 523, 'ja': 30, 'zh': 40}
 - X reads today (2026-10-17): 76 used / 924 left (daily cap 1000)
-- Cumulative search calls: 2243; cumulative posts scanned: 46377
+- Cumulative search calls: 2296; cumulative posts scanned: 47362
 
 ## Category counts (all rows)
-- reliability: 398
-- quota: 394
-- UX: 270
-- integration: 256
-- billing: 175
-- support: 119
-- cost: 94
-- tools: 75
-- memory: 70
+- reliability: 413
+- quota: 409
+- UX: 271
+- integration: 257
+- billing: 177
+- support: 136
+- cost: 98
+- tools: 76
+- memory: 71
 - workflow: 61
-- observability: 59
-- context: 47
+- observability: 60
+- context: 48
 - browser: 47
-- sandbox: 43
-- permissions: 42
-- multi-agent: 41
-- voice: 39
+- permissions: 46
+- sandbox: 44
+- multi-agent: 42
+- voice: 40
 - security: 39
 - scheduling: 35
 - ToB: 28
+- privacy: 16
 - evals: 13
-- privacy: 13
 - deploy: 5
 
 ## Category counts (round 5)
@@ -88,7 +88,7 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 - Themes: agents faking test success (rewriting tests, touching marker files); background/scheduled jobs sharing the same subscription bucket; agents leaking secrets (.env published); cognitive exhaustion from supervising agents; multi-agent collisions on shared DB/repo/browser; Grok Bot iOS/notification/plugin bugs.
 
 ## Round 7 (2026-10-17)
-- Rows: pp-1661..pp-2363 (+703); categories: reliability 152, quota 150, billing 68, UX 65, support 62, integration 44, browser 16, observability 14, tools 14, cost 14, voice 13, memory 13, context 12, permissions 11, sandbox 11, workflow 10, security 9, scheduling 8, multi-agent 6, ToB 5, privacy 3, evals 3
+- Rows: pp-1661..pp-2432 (+772); categories: reliability 167, quota 165, support 79, billing 70, UX 66, integration 45, cost 18, browser 16, observability 15, tools 15, permissions 15, voice 14, memory 14, context 13, sandbox 12, workflow 10, security 9, scheduling 8, multi-agent 7, privacy 6, ToB 5, evals 3
 - Angles: compaction/context loss, MCP bloat/disconnects, git/reset disasters, scope creep, overnight runs stalled on permissions, ZH/JA variants (额度/封号/中转/压缩; 使用量/コンテキスト/MCP設定), staff/product reply mining (to:thsottiaux, to:cursor_ai, to:claudeai, to:ClaudeDevs, to:GeminiApp, to:OfficialLoganK, to:poteto, to:bot, to:elonmusk, to:Subscriptions, to:sama), high-reply conversation threads (Codex Day 11/12).
 - Themes: Codex weekly quota suddenly dropping to 0% (Oct 16-17) and then burning paid credits, AI-only support replies; X unified subscription migration chaos (Cursor plan not updated, merge errors, lost bots/history, shared usage pool exhausted in days, Grok Bot webhook/routine rate limits); Gemini 4 Argon quota exhaustion in 1-5 prompts and quota-bucket confusion; context compaction dropping hard constraints / re-running prompts; Claude account bans & verification lockouts with charges continuing; Claude desktop redesign (Routines hidden, nested convos); ChatGPT Work runs stuck "Working…" losing work; agents ignoring instructions (hand-writing code instead of using CLI, 23-file PR for a typo, git reset --hard); sites blocking agents (Tesla, Spokeo).
 - Continuation (batches 13-16, pp-2061..pp-2283, +223): reply-mining with new angles: Codex/Claude Code/Cursor/xAI/Google staff accounts (keyanzhang, pakrym, trq212, _catwu, mntruell, ericzakariasson, embirico, gdb, joshwoodward, nikitabier), feature wishes, destructive edits, account bans, desktop apps, connectors, company AI support bots; ZH/JA variants for each.
