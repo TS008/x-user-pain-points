@@ -1,25 +1,25 @@
 # X User Pain Points — AI agents / assistants / coding agents
 
-Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-2488
+Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-2519
 
 ## Stats
-- Total rows: 2488 (round 7 added 828)
-- Language split (all): {'en': 2102, 'zh': 298, 'other': 1, 'ja': 87}
-- Language split (round 7): {'en': 716, 'zh': 91, 'ja': 21}
+- Total rows: 2519 (round 7 added 859)
+- Language split (all): {'en': 2124, 'zh': 304, 'other': 1, 'ja': 90}
+- Language split (round 7): {'en': 738, 'zh': 97, 'ja': 24}
 - Language split (round 6): {'en': 89, 'zh': 17, 'ja': 2}
 - Language split (round 5): {'en': 523, 'ja': 30, 'zh': 40}
 - X reads today (2026-10-17): 76 used / 924 left (daily cap 1000)
-- Cumulative search calls: 2356; cumulative posts scanned: 48629
+- Cumulative search calls: 2386; cumulative posts scanned: 49316
 
 ## Category counts (all rows)
-- quota: 425
-- reliability: 424
-- UX: 276
+- quota: 444
+- reliability: 426
+- UX: 277
 - integration: 260
-- billing: 185
-- support: 140
+- billing: 190
+- support: 143
 - cost: 100
-- tools: 76
+- tools: 77
 - memory: 71
 - workflow: 61
 - observability: 60
@@ -88,7 +88,7 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 - Themes: agents faking test success (rewriting tests, touching marker files); background/scheduled jobs sharing the same subscription bucket; agents leaking secrets (.env published); cognitive exhaustion from supervising agents; multi-agent collisions on shared DB/repo/browser; Grok Bot iOS/notification/plugin bugs.
 
 ## Round 7 (2026-10-17)
-- Rows: pp-1661..pp-2488 (+828); categories: quota 181, reliability 178, support 83, billing 78, UX 71, integration 48, cost 20, browser 17, permissions 16, observability 15, tools 15, voice 14, memory 14, context 13, sandbox 12, workflow 10, security 9, scheduling 9, multi-agent 8, privacy 8, ToB 5, evals 3, deploy 1
+- Rows: pp-1661..pp-2519 (+859); categories: quota 200, reliability 180, support 86, billing 83, UX 72, integration 48, cost 20, browser 17, tools 16, permissions 16, observability 15, voice 14, memory 14, context 13, sandbox 12, workflow 10, security 9, scheduling 9, multi-agent 8, privacy 8, ToB 5, evals 3, deploy 1
 - Angles: compaction/context loss, MCP bloat/disconnects, git/reset disasters, scope creep, overnight runs stalled on permissions, ZH/JA variants (额度/封号/中转/压缩; 使用量/コンテキスト/MCP設定), staff/product reply mining (to:thsottiaux, to:cursor_ai, to:claudeai, to:ClaudeDevs, to:GeminiApp, to:OfficialLoganK, to:poteto, to:bot, to:elonmusk, to:Subscriptions, to:sama), high-reply conversation threads (Codex Day 11/12).
 - Themes: Codex weekly quota suddenly dropping to 0% (Oct 16-17) and then burning paid credits, AI-only support replies; X unified subscription migration chaos (Cursor plan not updated, merge errors, lost bots/history, shared usage pool exhausted in days, Grok Bot webhook/routine rate limits); Gemini 4 Argon quota exhaustion in 1-5 prompts and quota-bucket confusion; context compaction dropping hard constraints / re-running prompts; Claude account bans & verification lockouts with charges continuing; Claude desktop redesign (Routines hidden, nested convos); ChatGPT Work runs stuck "Working…" losing work; agents ignoring instructions (hand-writing code instead of using CLI, 23-file PR for a typo, git reset --hard); sites blocking agents (Tesla, Spokeo).
 - Continuation (batches 13-16, pp-2061..pp-2283, +223): reply-mining with new angles: Codex/Claude Code/Cursor/xAI/Google staff accounts (keyanzhang, pakrym, trq212, _catwu, mntruell, ericzakariasson, embirico, gdb, joshwoodward, nikitabier), feature wishes, destructive edits, account bans, desktop apps, connectors, company AI support bots; ZH/JA variants for each.
