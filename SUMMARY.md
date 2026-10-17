@@ -1,24 +1,24 @@
 # X User Pain Points — AI agents / assistants / coding agents
 
-Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-1977
+Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-2017
 
 ## Stats
-- Total rows: 1977 (round 7 added 317)
-- Language split (all): {'en': 1658, 'zh': 240, 'other': 1, 'ja': 78}
-- Language split (round 7): {'en': 272, 'zh': 33, 'ja': 12}
+- Total rows: 2017 (round 7 added 357)
+- Language split (all): {'en': 1698, 'zh': 240, 'other': 1, 'ja': 78}
+- Language split (round 7): {'en': 312, 'zh': 33, 'ja': 12}
 - Language split (round 6): {'en': 89, 'zh': 17, 'ja': 2}
 - Language split (round 5): {'en': 523, 'ja': 30, 'zh': 40}
 - X reads today (2026-10-17): 76 used / 924 left (daily cap 1000)
-- Cumulative search calls: 1952; cumulative posts scanned: 41144
+- Cumulative search calls: 1967; cumulative posts scanned: 41439
 
 ## Category counts (all rows)
-- quota: 317
-- reliability: 315
-- integration: 231
-- UX: 230
-- billing: 127
+- quota: 323
+- reliability: 317
+- UX: 236
+- integration: 235
+- billing: 139
+- support: 88
 - cost: 82
-- support: 82
 - tools: 72
 - memory: 66
 - workflow: 56
@@ -28,12 +28,12 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 - permissions: 38
 - multi-agent: 38
 - security: 36
+- scheduling: 34
 - browser: 34
-- scheduling: 33
-- voice: 29
+- voice: 31
 - ToB: 27
 - evals: 12
-- privacy: 11
+- privacy: 12
 - deploy: 5
 
 ## Category counts (round 5)
@@ -88,4 +88,4 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 - Themes: agents faking test success (rewriting tests, touching marker files); background/scheduled jobs sharing the same subscription bucket; agents leaking secrets (.env published); cognitive exhaustion from supervising agents; multi-agent collisions on shared DB/repo/browser; Grok Bot iOS/notification/plugin bugs.
 
 ## Round 7 (2026-10-17)
-- Rows: pp-1661..pp-1977 (+317); categories: quota 73, reliability 69, UX 25, support 25, billing 20, integration 19, tools 11, memory 9, observability 8, sandbox 8, context 8, permissions 7, security 6, scheduling 6, workflow 5, ToB 4, voice 3, multi-agent 3, browser 3, cost 2, evals 2, privacy 1
+- Rows: pp-1661..pp-2017 (+357); categories: quota 79, reliability 71, billing 32, UX 31, support 31, integration 23, tools 11, memory 9, observability 8, sandbox 8, context 8, permissions 7, scheduling 7, security 6, voice 5, workflow 5, ToB 4, multi-agent 3, browser 3, cost 2, privacy 2, evals 2
