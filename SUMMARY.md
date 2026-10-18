@@ -1,38 +1,38 @@
 # X User Pain Points — AI agents / assistants / coding agents
 
-Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-2687; Round 8 (2026-10-18) = pp-2688..pp-3203
+Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-2687; Round 8 (2026-10-18) = pp-2688..pp-3231
 
 ## Stats
-- Total rows: 3203 (round 8 added 516)
-- Language split (all): {'en': 2655, 'zh': 392, 'other': 1, 'ja': 155}
-- Language split (round 8): {'en': 400, 'zh': 65, 'ja': 51}
+- Total rows: 3231 (round 8 added 544)
+- Language split (all): {'en': 2655, 'zh': 396, 'other': 1, 'ja': 179}
+- Language split (round 8): {'en': 400, 'zh': 69, 'ja': 75}
 - Language split (round 7): {'en': 869, 'zh': 120, 'ja': 38}
 - Language split (round 6): {'en': 89, 'zh': 17, 'ja': 2}
 - Language split (round 5): {'en': 523, 'ja': 30, 'zh': 40}
-- X reads today (2026-10-18): 251 used / 749 left (daily cap 1000)
-- Cumulative search calls: 2772; cumulative posts scanned: 57434
+- X reads today (2026-10-18): 259 used / 741 left (daily cap 1000)
+- Cumulative search calls: 2780; cumulative posts scanned: 57619
 
 ## Category counts (all rows)
 - quota: 565
-- reliability: 523
-- UX: 348
-- integration: 308
-- billing: 250
-- support: 189
+- reliability: 528
+- UX: 353
+- integration: 309
+- billing: 251
+- support: 190
 - cost: 128
-- tools: 110
-- memory: 94
+- tools: 111
+- memory: 98
 - observability: 79
 - permissions: 69
 - workflow: 68
 - context: 62
 - multi-agent: 59
-- browser: 53
-- scheduling: 52
+- browser: 55
+- scheduling: 54
+- ToB: 53
 - security: 52
-- ToB: 50
-- sandbox: 47
-- voice: 45
+- sandbox: 48
+- voice: 47
 - privacy: 27
 - evals: 17
 - deploy: 8
@@ -107,8 +107,8 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 - Round 7 total (2026-10-17): pp-1661..pp-2687, +1027 rows across 24 batches; X reads used today 892 / 1000, stopped at 108 left (100 floor).
 
 ## Round 8 (2026-10-18)
-- Rows: pp-2688..pp-3203 (+516); categories: quota 102, reliability 65, UX 57, billing 53, integration 34, tools 30, ToB 22, cost 21, memory 19, observability 17, permissions 14, scheduling 14, support 13, security 11, context 10, multi-agent 9, privacy 7, workflow 5, evals 4, browser 4, voice 2, deploy 2, sandbox 1
-- X reads today: 251 used / 749 left
+- Rows: pp-2688..pp-3231 (+544); categories: quota 102, reliability 70, UX 62, billing 54, integration 35, tools 31, ToB 25, memory 23, cost 21, observability 17, scheduling 16, permissions 14, support 14, security 11, context 10, multi-agent 9, privacy 7, browser 6, workflow 5, voice 4, evals 4, deploy 2, sandbox 2
+- X reads today: 259 used / 741 left
 - Batch 1 (pp-2688..pp-2848, +161): fresh window since 2026-10-16T12Z; product x frustration/wish keyword sweeps (Codex, Claude Code/desktop, Cursor, Copilot, Gemini/Antigravity, ChatGPT Work/Dots, Grok Bot; EN+ZH+JA), plus reply mining of new seeds: thsottiaux Day 13 reset (2111492673890824348) + "Done" (2111566005684289735) + work/personal dot (2111495392559067199), poteto "is chat the final form of agent ui?" (2111321176769442251), CodexResets1 Plus drain (2111396596386611652), elonmusk "Grok Bot got much faster" (2111239586873745604) and X DMs (2111239205951086616), GoogleAIStudio Argon for AI Pro (2111240722426802258), quotes of Day 13.
 - New themes: ChatGPT Dots approval loops (auto-approver overriding explicit approvals, Codex-session approvals looping, "Waiting for approval" forever), Dots forgetting tasks / 429 outages / no done-notification / can't remove lost devices; Codex surprise early resets shifting the weekly window and wasting banked reset cards, $500 plan draining like $20, image-containing threads bloating, Computer Use locking the Mac, Windows Explorer freezes; Claude desktop next-step/question box skipping replies and hiding intermediate actions; chat-as-agent-UI breaking down for many parallel topics/swarms.
 - Also: Gemini 4 Argon weekly quota gone in 1-3 prompts on AI Pro, Argon missing in Antigravity / bundle (Jio, Coursera, student) accounts, Antigravity real context 256K vs advertised 1M; unified X/Grok/Cursor plan: less usage, lost credits/benefits, wrong-account linking, India checkout failures, Cursor/Grok Bot bans with only AI support replies; Grok Bot can't post to X or read encrypted DMs, background tasks stop at ~50 min, no per-bot token usage.
