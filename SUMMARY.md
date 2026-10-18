@@ -1,29 +1,29 @@
 # X User Pain Points — AI agents / assistants / coding agents
 
-Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-2687; Round 8 (2026-10-18) = pp-2688..pp-4096
+Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-2687; Round 8 (2026-10-18) = pp-2688..pp-4138
 
 ## Stats
-- Total rows: 4096 (round 8 added 1409)
-- Language split (all): {'en': 3375, 'zh': 487, 'other': 1, 'ja': 233}
-- Language split (round 8): {'en': 1120, 'zh': 160, 'ja': 129}
+- Total rows: 4138 (round 8 added 1451)
+- Language split (all): {'en': 3413, 'zh': 488, 'other': 1, 'ja': 236}
+- Language split (round 8): {'en': 1158, 'zh': 161, 'ja': 132}
 - Language split (round 7): {'en': 869, 'zh': 120, 'ja': 38}
 - Language split (round 6): {'en': 89, 'zh': 17, 'ja': 2}
 - Language split (round 5): {'en': 523, 'ja': 30, 'zh': 40}
-- X reads today (2026-10-18): 492 used / 508 left (daily cap 1000)
-- Cumulative search calls: 3009; cumulative posts scanned: 62827
+- X reads today (2026-10-18): 511 used / 489 left (daily cap 1000)
+- Cumulative search calls: 3028; cumulative posts scanned: 63290
 
 ## Category counts (all rows)
-- quota: 667
-- reliability: 649
-- UX: 488
-- integration: 389
-- billing: 281
+- quota: 672
+- reliability: 655
+- UX: 491
+- integration: 396
+- billing: 285
 - support: 212
 - tools: 141
 - cost: 139
 - memory: 118
 - observability: 101
-- permissions: 97
+- permissions: 98
 - workflow: 86
 - voice: 83
 - context: 79
@@ -33,14 +33,15 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 - security: 62
 - scheduling: 58
 - sandbox: 54
-- privacy: 37
+- privacy: 38
 - bug: 33
 - limits: 24
+- quality: 23
 - evals: 19
-- quality: 17
 - deploy: 9
+- account: 8
 - performance: 5
-- account: 4
+- feature-request: 5
 - sync: 3
 - safety-filter: 3
 - pricing: 3
@@ -127,8 +128,8 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 - Round 7 total (2026-10-17): pp-1661..pp-2687, +1027 rows across 24 batches; X reads used today 892 / 1000, stopped at 108 left (100 floor).
 
 ## Round 8 (2026-10-18)
-- Rows: pp-2688..pp-4096 (+1409); categories: quota 204, UX 197, reliability 191, integration 115, billing 84, tools 61, memory 43, permissions 42, voice 40, observability 39, support 36, ToB 36, bug 33, cost 32, context 27, browser 27, limits 24, workflow 23, multi-agent 23, security 21, scheduling 20, privacy 17, quality 17, sandbox 8, evals 6, performance 5, account 4, deploy 3, sync 3, safety-filter 3, pricing 3, workplace 3, safety 3, product 3, cloud 2, product-direction 2, region 2, instructions 2, network 1, setup 1, remote 1, update 1, rollout 1
-- X reads today: 492 used / 508 left
+- Rows: pp-2688..pp-4138 (+1451); categories: quota 209, UX 200, reliability 197, integration 122, billing 88, tools 61, memory 43, permissions 43, voice 40, observability 39, support 36, ToB 36, bug 33, cost 32, context 27, browser 27, limits 24, workflow 23, multi-agent 23, quality 23, security 21, scheduling 20, privacy 18, sandbox 8, account 8, evals 6, performance 5, feature-request 5, deploy 3, sync 3, safety-filter 3, pricing 3, workplace 3, safety 3, product 3, cloud 2, product-direction 2, region 2, instructions 2, network 1, setup 1, remote 1, update 1, rollout 1
+- X reads today: 511 used / 489 left
 - Batch 1 (pp-2688..pp-2848, +161): fresh window since 2026-10-16T12Z; product x frustration/wish keyword sweeps (Codex, Claude Code/desktop, Cursor, Copilot, Gemini/Antigravity, ChatGPT Work/Dots, Grok Bot; EN+ZH+JA), plus reply mining of new seeds: thsottiaux Day 13 reset (2111492673890824348) + "Done" (2111566005684289735) + work/personal dot (2111495392559067199), poteto "is chat the final form of agent ui?" (2111321176769442251), CodexResets1 Plus drain (2111396596386611652), elonmusk "Grok Bot got much faster" (2111239586873745604) and X DMs (2111239205951086616), GoogleAIStudio Argon for AI Pro (2111240722426802258), quotes of Day 13.
 - New themes: ChatGPT Dots approval loops (auto-approver overriding explicit approvals, Codex-session approvals looping, "Waiting for approval" forever), Dots forgetting tasks / 429 outages / no done-notification / can't remove lost devices; Codex surprise early resets shifting the weekly window and wasting banked reset cards, $500 plan draining like $20, image-containing threads bloating, Computer Use locking the Mac, Windows Explorer freezes; Claude desktop next-step/question box skipping replies and hiding intermediate actions; chat-as-agent-UI breaking down for many parallel topics/swarms.
 - Also: Gemini 4 Argon weekly quota gone in 1-3 prompts on AI Pro, Argon missing in Antigravity / bundle (Jio, Coursera, student) accounts, Antigravity real context 256K vs advertised 1M; unified X/Grok/Cursor plan: less usage, lost credits/benefits, wrong-account linking, India checkout failures, Cursor/Grok Bot bans with only AI support replies; Grok Bot can't post to X or read encrypted DMs, background tasks stop at ~50 min, no per-bot token usage.
@@ -167,3 +168,4 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 - New themes: update regressions (Codex CLI spawning ~20 terminals, CODEX_CLI_PATH empty, 100% GPU idle, Linux "Starting task…" hang, resume blocked by "another active session", ChatGPT spawning hundreds of Computer Use processes, Windows app never opens, Grok Windows image attach broken after 09-29); Claude Code ignoring "Auto-top up: OFF" and draining $570, ignoring permission rules/CLAUDE.md, hooks silently passing on crash; Antigravity granting itself Super-Admin; Codex Remote ignoring default model, terminal not syncing mobile remote sessions, Codex chats one-way sync to ChatGPT; Claude Chat/Cowork switch losing context, no account switcher, Dispatch history broken.
 - Used ~28 X reads (514 left), ~5.9 rows/read. Complaint-phrase sweeps by window yield as well as feature-request sweeps; JA/ZH update-phrasing mostly release-note noise.
 - Batch 10 (pp-4077..pp-4096, +20): complaint/regression phrasing 09-25..10-18, ignored/wasted phrasing 10-10..10-18, JA ムカつく/指示を無視/勝手に and ZH 不听指令/擅自/白白浪费. Themes: Codex misflagging Postgres extension dev as cybersecurity, sandbox claiming macOS blocks despite permissions, "exec-server rejected request" after update, dots unresponsive, Codex VS Code unusable, Argon weekly quota gone in 2h. Recent windows yield ~3 rows/read (more overlap). Stopped at ~6 reads (508 left) to keep context; pushed.
+- Batch 11 (pp-4097..pp-4138, +42): less-covered products 07-20..10-18 with complaint/regression/wish phrasing: Copilot (VS Code/CLI/enterprise), Windsurf/Devin/Jules, Kiro/Amp, Gemini CLI, Grok Bot, ChatGPT agent/Dots; JA 指示を無視/使えなくなった/してほしい, ZH 不听话/更新之后. Themes: Copilot Chat BYOM breaking every update, enterprise Copilot unusable, VS Code OAuth broken; Windsurf credits collapse after Cognition; Dots can't reach local Codex/Apple Health/other chats/SSH; Grok Bot permissions forgotten, SuperGrok not recognized, Cursor-ban killing the bot, file transfer to Grok chat missing; Kiro AWS overage beyond 4 subs; Amp per-project MCP scoping. Yield ~2 rows/read (tool/promo noise high for Copilot CLI and Gemini CLI). ~19 reads used.
