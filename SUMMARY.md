@@ -1,63 +1,64 @@
 # X User Pain Points — AI agents / assistants / coding agents
 
-Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-2687; Round 8 (2026-10-18) = pp-2688..pp-4755; Round 9 (2026-10-21) = pp-4756..pp-5805; Round 10 (2026-10-22) = pp-5806..pp-6115
+Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-2687; Round 8 (2026-10-18) = pp-2688..pp-4755; Round 9 (2026-10-21) = pp-4756..pp-5805; Round 10 (2026-10-22) = pp-5806..pp-6506
 
 ## Stats
-- Total rows: 6115 (round 10 added 310)
-- Language split (all): {'en': 5208, 'zh': 588, 'other': 1, 'ja': 307, 'pt': 5, 'es': 4, 'ko': 2}
-- Language split (round 10): {'zh': 11, 'en': 296, 'ja': 3}
+- Total rows: 6506 (round 10 added 701)
+- Language split (all): {'en': 5570, 'zh': 601, 'other': 1, 'ja': 319, 'pt': 5, 'es': 4, 'ko': 6}
+- Language split (round 10): {'zh': 24, 'en': 658, 'ja': 15, 'ko': 4}
 - Language split (round 9): {'en': 932, 'zh': 56, 'ja': 51, 'pt': 5, 'es': 4, 'ko': 2}
 - Language split (round 8): {'en': 1725, 'zh': 194, 'ja': 149}
 - Language split (round 7): {'en': 869, 'zh': 120, 'ja': 38}
 - Language split (round 6): {'en': 89, 'zh': 17, 'ja': 2}
 - Language split (round 5): {'en': 523, 'ja': 30, 'zh': 40}
-- X reads today (2026-10-22): 121 used / 879 left (daily cap 1000)
-- Cumulative search calls: 3683; cumulative posts scanned: 78728
+- X reads today (2026-10-22): 229 used / 771 left (daily cap 1000)
+- Cumulative search calls: 3791; cumulative posts scanned: 81230
 
 ## Category counts (all rows)
-- quota: 969
-- reliability: 923
-- UX: 611
-- integration: 507
-- billing: 397
-- support: 261
-- cost: 186
+- quota: 1097
+- reliability: 944
+- UX: 626
+- integration: 519
+- billing: 417
+- support: 267
+- cost: 205
 - tools: 165
+- memory: 158
 - permissions: 154
-- memory: 152
-- observability: 139
-- quality: 137
-- voice: 119
-- context: 103
-- feature-request: 101
+- observability: 149
+- quality: 148
+- account: 129
+- voice: 125
+- context: 114
+- feature-request: 111
+- bug: 104
 - browser: 100
-- account: 97
-- multi-agent: 94
+- multi-agent: 98
 - workflow: 91
-- bug: 90
-- sandbox: 87
+- sandbox: 88
 - ToB: 73
 - security: 70
 - scheduling: 67
-- privacy: 47
-- safety: 47
-- pricing: 34
-- performance: 32
+- privacy: 48
+- pricing: 48
+- safety: 48
+- performance: 42
 - limits: 25
+- access: 21
 - availability: 20
 - evals: 19
+- transparency: 15
 - feature_request: 15
-- transparency: 14
+- feature: 15
 - computer_use: 14
-- access: 13
 - agent-behavior: 12
 - enterprise: 11
 - deploy: 10
 - collaboration: 9
+- ux: 9
 - refusals: 8
 - platform: 7
-- ux: 7
-- data-loss: 5
+- data-loss: 6
 - model-quality: 5
 - model-choice: 4
 - docs: 4
@@ -69,23 +70,26 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 - cloud-agent: 3
 - computer-use: 3
 - scheduled-tasks: 3
+- refusal: 3
 - cloud: 2
 - product-direction: 2
 - region: 2
 - instructions: 2
 - automation: 2
 - model-routing: 2
+- policy: 2
 - accessibility: 2
 - consistency: 2
 - config: 2
 - scheduled_tasks: 2
+- onboarding: 2
+- refund: 2
 - network: 1
 - setup: 1
 - remote: 1
 - update: 1
 - rollout: 1
 - personalization: 1
-- policy: 1
 - migration: 1
 - browser-agent: 1
 - regression: 1
@@ -95,6 +99,10 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 - data-export: 1
 - model_lifecycle: 1
 - lock_in: 1
+- limit: 1
+- trust: 1
+- compatibility: 1
+- data loss: 1
 
 ## Category counts (round 5)
 - reliability: 121
@@ -167,7 +175,7 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 
 ## Round 8 (2026-10-18)
 - Rows: pp-2688..pp-4755 (+2068); categories: reliability 362, quota 292, UX 239, integration 160, billing 130, quality 88, tools 76, permissions 54, observability 53, memory 50, cost 46, support 46, voice 45, browser 41, safety 41, context 37, multi-agent 36, ToB 36, bug 33, workflow 26, security 25, limits 24, account 24, scheduling 22, privacy 21, sandbox 10, feature-request 8, evals 6, performance 5, deploy 4, sync 3, safety-filter 3, pricing 3, workplace 3, product 3, cloud 2, product-direction 2, region 2, instructions 2, network 1, setup 1, remote 1, update 1, rollout 1
-- X reads today (2026-10-22): 121 used / 879 left (daily cap 1000)
+- X reads today (2026-10-22): 229 used / 771 left (daily cap 1000)
 - Batch 1 (pp-2688..pp-2848, +161): fresh window since 2026-10-16T12Z; product x frustration/wish keyword sweeps (Codex, Claude Code/desktop, Cursor, Copilot, Gemini/Antigravity, ChatGPT Work/Dots, Grok Bot; EN+ZH+JA), plus reply mining of new seeds: thsottiaux Day 13 reset (2111492673890824348) + "Done" (2111566005684289735) + work/personal dot (2111495392559067199), poteto "is chat the final form of agent ui?" (2111321176769442251), CodexResets1 Plus drain (2111396596386611652), elonmusk "Grok Bot got much faster" (2111239586873745604) and X DMs (2111239205951086616), GoogleAIStudio Argon for AI Pro (2111240722426802258), quotes of Day 13.
 - New themes: ChatGPT Dots approval loops (auto-approver overriding explicit approvals, Codex-session approvals looping, "Waiting for approval" forever), Dots forgetting tasks / 429 outages / no done-notification / can't remove lost devices; Codex surprise early resets shifting the weekly window and wasting banked reset cards, $500 plan draining like $20, image-containing threads bloating, Computer Use locking the Mac, Windows Explorer freezes; Claude desktop next-step/question box skipping replies and hiding intermediate actions; chat-as-agent-UI breaking down for many parallel topics/swarms.
 - Also: Gemini 4 Argon weekly quota gone in 1-3 prompts on AI Pro, Argon missing in Antigravity / bundle (Jio, Coursera, student) accounts, Antigravity real context 256K vs advertised 1M; unified X/Grok/Cursor plan: less usage, lost credits/benefits, wrong-account linking, India checkout failures, Cursor/Grok Bot bans with only AI support replies; Grok Bot can't post to X or read encrypted DMs, background tasks stop at ~50 min, no per-bot token usage.
@@ -226,7 +234,7 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 
 ## Round 9 (2026-10-21)
 - Rows: pp-4756..pp-5805 (+1050); categories: quota 152, feature-request 93, reliability 65, integration 61, UX 58, account 58, bug 57, billing 47, voice 31, sandbox 31, pricing 31, quality 30, permissions 29, support 27, performance 26, memory 18, cost 18, observability 17, context 14, transparency 14, access 13, agent-behavior 12, browser 10, ToB 9, tools 9, enterprise 9, multi-agent 8, collaboration 8, refusals 8, scheduling 7, platform 7, ux 7, privacy 6, safety 5, data-loss 5, model-quality 5, model-choice 4, docs 4, security 4, approvals 3, cloud-agent 3, computer-use 3, scheduled-tasks 3, workflow 2, automation 2, model-routing 2, availability 2, consistency 2, personalization 1, limits 1, policy 1, accessibility 1, migration 1, browser-agent 1, regression 1, remote-agent 1, discoverability 1, notifications 1, data-export 1
-- X reads today (2026-10-22): 121 used / 879 left (daily cap 1000)
+- X reads today (2026-10-22): 229 used / 771 left (daily cap 1000)
 - Batch 1 (pp-4756..pp-5140, +385): fresh window since 2026-10-18T12:00Z. Angles: per-product complaint/question phrasing (Codex, Claude Code, Claude desktop/Cowork/iOS, Cursor, ChatGPT/Dots/Work/Atlas, Antigravity/Gemini app/Argon, Copilot, Grok Bot/SuperGrok/Grok Build, Manus/Devin/Replit/Lovable/Bolt, Perplexity/Comet, Hermes/OpenClaw, Kiro/OpenCode etc.), generic agent/memory/scheduling/sandbox/MCP/voice/cloud-agent/rm -rf/refund phrasing, ZH/JA (+a few ES/PT) phrasing; the most productive move was `to:` reply searches aimed at official/team accounts (to:bot, to:thsottiaux, to:OpenAIDevs/OpenAI, to:claudeai/AnthropicAI/bcherny/trq212, to:cursor_ai/ericzakariasson/leerob, to:antigravity/GeminiApp/OfficialLoganK, to:poteto/mattyp, to:cognition/Replit/boltdotnew) in time slices, plus conversation_id replies to Tibo's 40k-accounts post (2112592264686149749) and reset posts.
 - New themes: Codex ~40k accounts metered on the wrong plan (post-downgrade) and users with no email/credits/way to verify eligibility; "Selected model is at capacity"/"workspace routing discovery timed out"/remote compaction failures; Codex CLI `-a never` still blocking on MCP approval and approval mode not persisting; A2A sub-agent storms; 475K context cap despite 1M model; random resets wiping leftover quota; ChatGPT Work "No usable execution environment" outage and desktop app forcing Work mode; Dots silent after "I'm on it", lost cloud files, cua_repl vanishing, can't see other threads; Claude desktop wake-lock every 5s, connectors global so disabling one breaks scheduled tasks, Chat/Cowork merger force-converting chats, Cowork guard blocking allowed hooks, overnight Claude Code rm -rf inside test script; Gemini 4 Argon quota (one prompt = 11-33% of 5h) and Argon missing from Antigravity IDE / discount & Jio plans; Antigravity moving to an extension; Gemini Spark agent couldn't be stopped; Grok Bot unified-account/merge lockouts, permanent non-renamable bot email, per-mailbox send permissions, routines edit broken, per-bot/per-routine usage missing, memory leak on shared computer, Starlink/Bugcrowd/X posting blocked, WhatsApp relink every 3-4 days, voice quirks; Cursor annual sub wiped on Plus cancel, Cursor+Grok unified usage burning 18-20%/day; Devin Oncall internal automation burning quota and undeletable; Perplexity local agent needing 36GB Mac.
 - Reads: 101 used this batch (1000 -> 899 left today). Yield ~3.8 rows/read; `to:` official-account reply slices >> generic keyword searches; Dots/ChatGPT Work and Grok Bot team replies are rich and fresh.
@@ -238,10 +246,13 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 - Reads: 98 used this batch (802 -> 704 left today). Yield ~2.5 rows/read — lower than b1/b2; best angles were topical to: searches (memory/routines/computer/permissions) and fresh official-post threads (Notion Auto, team tasks, Claude Code auto-mode thread); generic vertical keyword searches and quote-post lookups are mostly noise.
 
 ## Round 10 (2026-10-22)
-- Rows: pp-5806..pp-6115 (+310); categories: quota 62, reliability 38, UX 23, billing 23, quality 19, availability 18, permissions 16, cost 15, feature_request 15, account 15, computer_use 14, integration 12, support 12, memory 9, observability 7, config 2, scheduled_tasks 2, enterprise 2, collaboration 1, accessibility 1, model_lifecycle 1, safety 1, lock_in 1, performance 1
-- X reads today: 121 used / 879 left
+- Rows: pp-5806..pp-6506 (+701); categories: quota 190, reliability 59, account 47, billing 43, UX 38, cost 34, quality 30, integration 24, availability 18, support 18, observability 17, permissions 16, memory 15, feature_request 15, feature 15, computer_use 14, pricing 14, bug 14, performance 11, context 11, feature-request 10, access 8, voice 6, multi-agent 4, refusal 3, config 2, scheduled_tasks 2, enterprise 2, safety 2, onboarding 2, refund 2, ux 2, collaboration 1, accessibility 1, model_lifecycle 1, lock_in 1, data-loss 1, transparency 1, privacy 1, sandbox 1, limit 1, trust 1, compatibility 1, data loss 1, policy 1
+- X reads today: 229 used / 771 left
 ## Round 10 batch 1 (2026-10-22, Asia/Shanghai)
 - Rows pp-5806..pp-6115 (+310; total 6115). Strict dedupe: post-id dupes 0; dropped 5 same-user near-duplicates of earlier rows (Bombastasticus, ak47mnft, vedntp, DJDEEZ, MelansonIndus). Language: en 296 (incl. a few ES/PT/FR mapped to en), zh 11, ja 3. Queries in raw/r10_b1_queries.txt; picks in raw/picks_r10_b1.txt + raw/picks_r10_b1_p2.txt; triage in raw/tri_r10_b1[a-p].txt.
 - Angles: fresh official-post reply threads since 10-21 (Claude Duet launch 2112984664256241837 pain p1-p10 + relevancy p1-p4; Tibo "Dot, Dotter, Dottest" 2113029655095836957 pain p1-p9; Tibo Day16 caching; poteto Pages; mattyp iPhone action button; Logan Argon 25T tokens; Claude Security; Notion Agent upgrade/API version), PAIN-filtered to: replies since 10-21 (bot, Anthropic, Cursor, Gemini/Antigravity, OpenAI, Tibo outside Dot thread, Notion/Perplexity/Manus/Cognition), Grok Bot topical/usage-mismatch replies, under-covered 10-19/20 Grok Bot seeds (poteto "what did you get done"), and fresh keyword angles (compaction/context, instruction-file drift, false-success, hooks/skills/plan mode, office/browser add-ins, babysitting, AI-only support with no human, Windows/WSL, destructive git, looping agents, approval fatigue, ZH/JA new-product terms).
 - New themes: Claude Duet launch friction (US-only waitlist, Team/nonprofit plans excluded, waitlist button broken/in-app browser, background checks eat plan limits, wants voice + Claude desktop/Code handoff, read-only-by-default agent configs); ChatGPT Dots (auto-review/approval loops — "Always allow" never sticks, GitHub blob permissions every time, PR merges blocked; dots spawn workers/Codex threads that drain usage despite "doesn't draw on weekly usage"; dot computer offline/slow, missing on mobile/Codex app, Windows/WSL issues, no WebGL, SSH/multi-device/multiple-dots wishes, image viewing delegated to context-less agent, voice lag); Codex usage metering anomalies (resets eaten in hours, Pro→Plus downgrade wiped usage, upgrade mid-session not applied, dashboard shows Astra while threads are Sol, "model at capacity"/"all models rate-limited", safety_violation HTTP 400 after 17 min x 23 agents, Crashpad dump loop, RAM hunger, wants per-run spend caps and API conversion); Grok Bot (usage meter mismatch — "out of usage"/"prepaid balance used up" at 2-66%; context bloat 25k→500k tokens/prompt; bots double-handling tasks; merged-plan wants Cursor cap to protect routines; computer suspended 40-50x/day, silent restores, SMTP/IMAP blocked, shell hangs 14 min, no pre-update warning; Pages rollout gaps + wants teammate-editable pages and routine-fed pages; Apps Script/Stripe/finance connector issues; Team seats need human; Private Relay/linking lockouts with AI-only support; iOS background crash; X-chat voice not transcribed); Gemini 4 Argon quotas (one prompt = weekly quota, promo Pro excluded, Antigravity IDE lacks Argon, read-only Gmail/Drive wish); Claude Code (180k tokens reading pnpm-lock, approval cards on Auto/Bypass, Mac app Accessibility regression breaking dictation); Cursor billing/support (Pro→Pro+ wiped $135 credit, no payment channel, AI support can't escalate); Notion (credit split, Edu→Business confusion, password login removed); generic AI-support-bot dead ends (Agoda, Jio, YouTube, X Ads).
 - Reads: 121 used this batch (1000 -> 879 left today). Yield ~2.6 rows/read. Best: Claude Duet + Tibo Dot reply threads (pain-filtered recency, deep paging still productive at p8-p10), to:thsottiaux/to:bot usage replies, and under-covered poteto seed threads. Worst: consumer voice assistants (Alexa/Siri — noise), GitHub/M365 Copilot keyword searches, app-builder (v0/bolt/base44) and Perplexity Computer keywords (news/promo), secrets-exposure keyword, ZH/JA product-name searches (mostly news summaries). Note: raw/picks_r9_b4.txt (117 picks) was never built into the CSV (no "Round 9 batch 4" rows) — no overlap with r10 b1 picks.
+
+## Round 10 batch 2 (2026-10-22)
+Rows pp-6116..pp-6506 (391): 114 recovered R9 b4 picks (pp-6116..pp-6229; 117 orphaned picks, 3 failed verification/dedupe; every one checked against real post data in raw/pool.jsonl) and 277 new (pp-6230..pp-6506). After the build, 18 same-user near-dups were marked #DROP in the picks files and the rows rebuilt. 0 post-id dupes across the whole CSV. Reads: 108 used this batch (879 -> 771 left). Angles (raw/r10_b2_queries.txt, sections 0, A-Q): pain-filtered reply threads under fresh 10-21 official/launch posts (Cursor, Claude Duet, ChatGPT Dots, Codex, Gemini/Antigravity), to:<official> pain-word searches, plan-limit phrase searches for Claude, Codex and Gemini Argon (paginated), AI account-ban searches, and T3 Code/Hermes/Grok Build searches, plus KO/PT/JA/ZH replies. New themes: the merged X/Grok/Cursor plan draining usage, including the 10-21 "prepaid balance used up" block at low usage %; Cursor cloud agents launched by Grok Bot billed as Additional usage; Gemini 4 Argon quota exhaustion on Pro/Ultra (a few prompts use most of the 5h/weekly pool, and Argon also eats Flash quota); Codex limits (pauses mid-task, $500 Fastest tier gone in 4.5h); Claude Team plan session limits and arbitrary weekly accounting; AI account bans right after payment; Duet/Dots access gaps in the EU/UK; T3 Code (WSL, usage burn). Best angles: Argon limit-phrase pagination, reply threads under the unified-plan/Grok Bot posts, and ban searches. Worst: Devin/Manus/Lovable/Replit/Bolt/v0 and n8n/Zapier/Make keyword searches (referrals, tips and promo), Copilot/VS Code, ZH/JA quota-word searches (Walmart news), and Gemini to: searches (demo-thread noise).
