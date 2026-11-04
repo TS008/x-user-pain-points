@@ -1571,6 +1571,234 @@ Rows pp-6116..pp-6506 (391): 114 recovered R9 b4 picks (pp-6116..pp-6229; 117 or
 - **Still thin**: pure SCIM provision first-person; DLP/CASB blocked Cursor tools first-person; mobile PR diff readability; OpenHands runtime crash first-person; Ollama schema hang first-person
 - **Next (b11)**: left≈252 ≫120 — continue toward floor≈100; deepen thin themes + sparse quote/reply
 
+
+## Round 23 batch 1 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: 88 successful X reads ingested (+2 invalid query burns for leading-dot tokens); probe earlier +1
+- **Scanned**: ~2020 posts across dumps; pool new ~1275 unique
+- **Left after**: ~909 / 1000 today
+- **CSV**: +46 → pp-10252..pp-10297 (total rows 10297)
+- **Themes kept**: quota/metering (Claude Code 5h after $1.37, Devin Pro rate-limit, Grok weekly jumps, Cursor Included Usage wipe, Kimi burn), compaction wiping discoveries, CLAUDE.md stale/oversize, multi-agent file-copy isolation, hybrid memory sync, Codex Mac copy + SSH desktop lag, disk junk from agent transcripts, Workspace MCP OAuth deadline, Coze enterprise sunset
+- **Thin / avoid next**: WorkBuddy mini-program (R22), Turnstile/CAPTCHA meat-proxy, apply_patch loops, PreToolUse theatre, MCP pin-hash; lots of FREE-repo promo noise
+- **Suggested b2 angles**: Claude message-threads adoption friction; agent spend caps vs token meters; Hermes/local+cloud memory sync; Cursor Background Agent queue/disconnect deeper; SSO/SCIM seat sync failures; voice→coding handoff; permission-prompt fatigue; n8n/Zapier agent webhooks; JA weekly-reset UX; ZH 豆包/通义 agent 额度 without WorkBuddy promo
+
+
+## Round 23 batch 2 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: 75 X reads ingested (seeds 25 + page2 16 + page3 6 + diversify/author ~28)
+- **Scanned**: ~1760; pool new ~752 unique for r23_b2
+- **Left after**: ~834 / 1000 today
+- **CSV**: +37 → pp-10298..pp-10334 (total rows 10334); Round 23 cumulative +83
+- **Themes kept**: Grok/Muse/Ultra opaque weekly burn & meter bugs; ChatGPT↔Codex Dec shared pool eating chat; Claude Code agent_summary / context re-read cost; Antigravity Ubuntu terminate loops; Shopify multi-store agent ACL; MCP OAuth issuer binding; Message Threads 5-min expiry; CLAUDE.md rules buried under compaction; Computer Use iPhone mirroring drag fails
+- **Thin / next (b3+)**: SSO/SCIM seat sync still thin; voice→coding handoff light; permission-prompt fatigue thin; JA weekly-reset deeper; enterprise DLP blocked tools; Background Agent queue disconnect deeper page3; Windsurf/Kiro vs Cursor reliability
+- **STOP after b2** per dispatch; left≈834 ≫120 so later worker should continue b3+
+
+
+
+## Round 23 batch 3 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: ~76 successful X reads ingested (+~6 invalid truncated-token burns earlier; 1 empty cloud_lost page2; 1 zh_quota 503 then retry OK)
+- **Scanned**: ~1621; pool new ~800+ unique for r23_b3
+- **Left after**: ~750 / 1000 today
+- **CSV**: +38 → pp-10335..pp-10372 (total rows 10372); Round 23 cumulative +121
+- **Themes kept**: Claude Code subagent Opus burn & weekly efficiency collapse; ChatGPT↔Codex shared pool early rollout + opaque Instant carve-out; Claude spend-cap fleet; Grok Bot opaque weekly jumps/AFK burn/voice usage UX; Antigravity terminate + Argon→Flash meter cross-drain; Always Allow path-scoped lease; AGENTS.md/CLAUDE.md ignored when long; Codex project junk cleanup; Claude Ultra 5h pause removed draining week; -p double burn; Hermes blocked-action silent summaries; webhook arrive-or-not; voice≠local Claude Code handoff; MCP install context bloat; n8n Agent Runaway/Spend Guard
+- **Thin / next (b4)**: SSO/SCIM seat sync still thin; enterprise DLP/CASB blocked tools thin; JA weekly-reset UX thin; IDE notification storms; CI agent flaky quarantine; browser-use cookie expiry; calendar/email send without confirm; mobile PR diffs; invoice/VAT; OpenHands/Aider parity; Grok Bot routine silent fail deepen
+- **STOP after b4** per dispatch; left≈750 ≫120 so continue b4 then stop
+
+
+## Round 23 batch 4 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: 70 X reads ingested (seeds 24 + page2 ~18 + diversify/author ~28)
+- **Scanned**: ~1500; pool new for r23_b4
+- **Left after**: ~680 / 1000 today
+- **CSV**: +32 → pp-10373..pp-10404 (total rows 10404); Round 23 cumulative +153
+- **Themes kept**: Grok Bot routine/hourly schedule silent burn & overnight meter jumps; Cursor cloud-agent retry-stuck glitch; Claude Code session death / Too-many-requests multi-session; supermarket login browser-use wall; Claude Ultra KYC reseller lockout; invoice review workflow; mid-task crash re-edit without checkpoints; shared Grok+Cursor weekly pool; Playwright 403 retry credit burn; Codex CI/Git fetch storms; malicious AGENTS.md follow rate; /schedule silent connector injection; JA Claude /usage reset UX + notification spam; ChatGPT Plus→Pro trap; Max→Ultra 10x admit; Claude KYC passport ban; PreToolUse hook digest pin
+- **Thin still**: SSO/SCIM seat sync; enterprise DLP/CASB blocked tools; mobile PR diffs first-person; VAT/invoice non-reseller sparse; OpenHands/Aider parity sparse
+- **STOP after b4** per dispatch (no b5). left≈680 ≫120 so later worker may continue b5+ if desired
+
+## Round 23 batch 5 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: 77 X reads ingested (seeds 25 + page2 16 + prior-page3 12 + diversify/extra-page2 ~24)
+- **Scanned**: ~1747; pool new for r23_b5
+- **Left after**: ~603 / 1000 today
+- **CSV**: +37 → pp-10405..pp-10441 (total rows 10441); Round 23 cumulative +190
+- **Themes kept**: ChatGPT↔Codex shared pool Instant carve-out / Thinking drain; Antigravity Argon vs 3.8/Claude meter cross-drain + terminate-on-error; Grok Bot Slack/routine weekly burn; malicious AGENTS.md in Downloads + /schedule connector warn; Claude multi-session Too-many-requests; Doubao quota mid-workflow; Codex personal invoice vs 对公; JA weekly/5h reset opacity; stale CLAUDE.md still followed; corporate proxy/certs block agents
+- **Still thin**: SSO/SCIM seat sync first-person; enterprise DLP/CASB blocked tools; Always Allow path-scoped lease (sparse this batch); mobile PR diff readability first-person
+- **STOP after b6** per dispatch (no b7). left≈603 ≫120 so b6 then stop; later may continue b7+ if left>120
+
+## Round 23 batch 6 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: 64 X reads ingested (seeds 24 + page2 24 + diversify 16). Note: a bulk-ingest of stale agent-tools dumps was attempted then rolled back in stats; triage/picks used allowlisted real r23_b6 sources only (s01–s24 + newest 40 dumps).
+- **Scanned**: ~1441 from real b6 dumps
+- **Left after**: ~539 / 1000 today
+- **CSV**: +31 → pp-10442..pp-10472 (total rows 10472); Round 23 cumulative +221
+- **Themes kept**: Playwright cookie/session non-reuse + mid-run CDP break; Codex Desktop Windows xlsx send hang / browser open fail / Side Chats gone / WSL path confusion; Cursor notify sound won't mute; multi-agent notification storms; agent disables monitoring notify; pytest zero-tests green + flaky quarantine ownership; Claude Desktop SSO patchy; Grok Always-allow 10-min expiry; Feishu agent sync delay/Windows crash/Hermes sync gap; Hermes Desktop Windows unusable; kill-switch≠spend-cap email bypass; local LLM tool-schema hang/mismatch; public MCP ~40% fail
+- **Still thin**: calendar/email send-without-confirm first-person sparse; pure SSO/SCIM seat provisioning; enterprise DLP blocked Cursor tools; mobile PR diff readability; Always Allow path-scoped worktree rename
+- **STOP after b6** per dispatch (no b7). left≈539 ≫120 so **b7+ still needed** (yes if left>120)
+
+## Round 23 batch 7 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: 85 X reads ingested (seeds 24 + page2 19 + diversify 24 + page3/extra 18). ~10 invalid/empty burns (≠ in query, truncated next_token page3 attempts, empty pages). True left≈444/1000.
+- **Scanned**: ~1797; pool new for r23_b7 ~488 unreviewed then curated
+- **Left after**: ~444 / 1000 today
+- **CSV**: +36 → pp-10473..pp-10508 (total rows 10508); Round 23 cumulative +257
+- **Themes kept**: Codex Desktop/app Side Chat broken + browser host/tabs/logins + file:// Browser Use (JA); Claude Code incomplete finish notifications / always-monitor; CI agent zero-tests-as-pass, healthcheck rewrite false-green, loosened/deleted asserts & skips; Sheep MCP session closed / CDP mid-navigate stale DOM; Hermes Desktop lag, setup hour, gateway port mismatch, token fail after VM pause, standalone-install wait, Windows ARM; Ollama/local JSON-schema tool-call drift & MCP 2.0 install explode (ZH); agent metric chase without ask + send/confirm gates; ZH invoice/tax unmet by booking demos; Claude Desktop login/UX gaps; Codex mobile gaps vs t3; agent self-grade always-ready; JA unexpected Codex switch + Aider local retry-fail; Feishu+local-agent sync pits
+- **Still thin**: pure SSO/SCIM seat provisioning first-person; enterprise DLP/CASB blocked Cursor tools; calendar/email send-without-confirm sparse first-person; Playwright cookie non-reuse first-person sparse (CDP/session adjacent kept)
+- **STOP after b8** per dispatch (no b9). left≈444 ≫120 so **b8 needed** then stop
+
+## Round 23 batch 8 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: 70 X reads ingested (seeds 24 + page2 20 + diversify 26). 1 invalid burn (.env in query). True left≈373/1000.
+- **Scanned**: ~1656; pool new for r23_b8 ~540 then curated
+- **Left after**: ~373 / 1000 today
+- **CSV**: +34 → pp-10509..pp-10542 (total ~10542); Round 23 cumulative +291
+- **Themes kept**: reward-hacking vs fail monitors; heartbeat waste after model deprecation; stale context / false 200 OK; Skills/plugins broken or never-loaded + auto-install without consent; PR description-first / PR body vs risk-note / PR summary lies vs skipped tests; subagent cache/attribution/silent plan-change & missing per-node cost; Slack wrong-channel fire risk; mid-task provider switch drops context; Playwright cookie leak across parallel agents; screenshot/OCR unaudited steer channel + desktop screenshot privacy (ZH); silent model/quota downgrades (ZH); AGENTS.md telemetry-gated silent skip; Grok Bot unify bricks account; stale Playwright chromium with keys on same machine; local embedding silent NaN (ZH)
+- **Still thin**: pure enterprise SSO/SCIM seat first-person; DLP/CASB blocked Cursor tools first-person; calendar/email send-without-confirm still sparse; Teams-specific wrong-channel sparse (Slack adjacent kept)
+- **STOP after b8** per dispatch (no b9). left≈373 ≫120 so **b9+ still needed later** if left>120
+
+## Round 23 batch 9 — 2026-11-04 Asia/Shanghai afternoon
+
+- **Calls**: 60 X reads ingested (seeds 24 + page2 12 + diversify 24). 1 empty diversify result.
+- **Scanned**: ~1312; pool new for r23_b9 ~501 unreviewed then curated
+- **Left after**: ~312 / 1000 today
+- **CSV**: +33 → pp-10543..pp-10575 (total ~10575); Round 23 cumulative +324
+- **Themes kept**: computer-use overnight/CAPTCHA/save-dialog stuck; agent worktree orphans/disk flood/Windows junction hazard; agent wiped prod + over-scoped/admin tokens; personal↔team Super seat desync; SSO offboard incomplete/shadow IT (ZH); Zscaler/proxy blocks Grok Bot; Message Threads 5-min expiry; voice→coding handoff & Duet gaps; orchestration without kill-switch / cost attribution; JA invoice false-sent / wrong billing / draft still-manual / surprise overage / process chaos / accounting MCP lockout; JA unattended schedule silent-fail; ZH Doubao VPN settle pit
+- **Still thin**: pure enterprise SCIM seat provision first-person; DLP/CASB blocked Cursor tools first-person; mobile PR diff readability first-person; OpenHands/Aider parity sparse; Feishu AI seat sync sparse
+- **Next (b10)**: deepen SSO/SCIM provision, DLP/CASB first-person, mobile PR, OpenHands/Aider, Background Agent queue, Feishu seats, JA 社内ポリシー/勝手送信; left≈312 ≫120 so continue
+
+## Round 23 batch 10 — 2026-11-04 Asia/Shanghai afternoon
+
+- **Calls**: 60 X reads ingested (seeds 24 + page2 14 + diversify 22). 1 empty page2.
+- **Scanned**: ~1266; pool curated from allowlisted r23_b10 dumps
+- **Left after**: ~252 / 1000 today
+- **CSV**: +34 → pp-10576..pp-10609 (total 10609); Round 23 cumulative +358
+- **Themes kept**: scheduled agents DST/UTC skew + TZ mid-swap re-fire; Cursor cloud agents down / pod-not-found; Grok Bot Feishu MCP blocked + Feishu CLI bridge (ZH); third-party Feishu over-scope; multi-IM isolation; corp Claude seat abuse firing (ZH); JA shadow-AI / policy / Panasonic PII-to-banned-AI / RIZAP mis-send / Samsung ban lesson / Muse undo risk; voice coding interrupt + music conflict + typing still wins; Doubao IME/link UX (ZH); Aider no tool-calling loop; scoped/revocable credentials; local vs cloud Claude schedule config; web chat expire Feishu watch; metered API invoice shock; enterprise RAG ACL staleness; agent publish gate
+- **Still thin**: pure SCIM provision first-person; DLP/CASB blocked Cursor tools first-person; mobile PR diff readability; OpenHands runtime crash first-person; Ollama schema hang first-person
+- **Next (b11)**: left≈252 ≫120 — continue toward floor≈100; deepen thin themes + sparse quote/reply
+
+## Round 23 batch 11 — 2026-11-04 Asia/Shanghai afternoon
+
+- **Calls**: 133 X reads ingested (seeds 24 + page2 16 + diversify 48 + extras 45). Stopped at left≈119 (floor band).
+- **Scanned**: ~2663 from allowlisted r23_b11 dumps
+- **Left after**: ~119 / 1000 today (NEVER below 100)
+- **CSV**: +34 → pp-10610..pp-10643 (total 10643); Round 23 cumulative +392
+- **Themes kept**: Swiss/Anthropic VAT invoice invalid; Cursor Cloud Agent multi-hour down + pod-not-found; Grok Bot Feishu connector/MCP closed-beta (ZH); Codex→Kimi API bridge pits (ZH); domestic coding-plan traps (ZH); Ollama GGUF/tools reject; JA shadow-AI 70% unprepared / ban underground / reporting penalty / Samsung paste ban / RIZAP mis-send / Panasonic PII; AI kill-switch after over-grant + retry spiral; Doubao coding Anaconda license; Kimi Computer Use; browser agent CAPTCHA ban-on-retry; worktree parallel open/close + Windows NTFS; multi-Codex stuck status; shared memory git trust; Claude Enterprise Inference Hooks DLP (Netskope/Zscaler)
+- **STOP**: left≈119 in target band (~100–120); no further mining this turn
+
+
+## Round 23 batch 1 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: 88 successful X reads ingested (+2 invalid query burns for leading-dot tokens); probe earlier +1
+- **Scanned**: ~2020 posts across dumps; pool new ~1275 unique
+- **Left after**: ~909 / 1000 today
+- **CSV**: +46 → pp-10252..pp-10297 (total rows 10297)
+- **Themes kept**: quota/metering (Claude Code 5h after $1.37, Devin Pro rate-limit, Grok weekly jumps, Cursor Included Usage wipe, Kimi burn), compaction wiping discoveries, CLAUDE.md stale/oversize, multi-agent file-copy isolation, hybrid memory sync, Codex Mac copy + SSH desktop lag, disk junk from agent transcripts, Workspace MCP OAuth deadline, Coze enterprise sunset
+- **Thin / avoid next**: WorkBuddy mini-program (R22), Turnstile/CAPTCHA meat-proxy, apply_patch loops, PreToolUse theatre, MCP pin-hash; lots of FREE-repo promo noise
+- **Suggested b2 angles**: Claude message-threads adoption friction; agent spend caps vs token meters; Hermes/local+cloud memory sync; Cursor Background Agent queue/disconnect deeper; SSO/SCIM seat sync failures; voice→coding handoff; permission-prompt fatigue; n8n/Zapier agent webhooks; JA weekly-reset UX; ZH 豆包/通义 agent 额度 without WorkBuddy promo
+
+
+## Round 23 batch 2 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: 75 X reads ingested (seeds 25 + page2 16 + page3 6 + diversify/author ~28)
+- **Scanned**: ~1760; pool new ~752 unique for r23_b2
+- **Left after**: ~834 / 1000 today
+- **CSV**: +37 → pp-10298..pp-10334 (total rows 10334); Round 23 cumulative +83
+- **Themes kept**: Grok/Muse/Ultra opaque weekly burn & meter bugs; ChatGPT↔Codex Dec shared pool eating chat; Claude Code agent_summary / context re-read cost; Antigravity Ubuntu terminate loops; Shopify multi-store agent ACL; MCP OAuth issuer binding; Message Threads 5-min expiry; CLAUDE.md rules buried under compaction; Computer Use iPhone mirroring drag fails
+- **Thin / next (b3+)**: SSO/SCIM seat sync still thin; voice→coding handoff light; permission-prompt fatigue thin; JA weekly-reset deeper; enterprise DLP blocked tools; Background Agent queue disconnect deeper page3; Windsurf/Kiro vs Cursor reliability
+- **STOP after b2** per dispatch; left≈834 ≫120 so later worker should continue b3+
+
+
+
+## Round 23 batch 3 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: ~76 successful X reads ingested (+~6 invalid truncated-token burns earlier; 1 empty cloud_lost page2; 1 zh_quota 503 then retry OK)
+- **Scanned**: ~1621; pool new ~800+ unique for r23_b3
+- **Left after**: ~750 / 1000 today
+- **CSV**: +38 → pp-10335..pp-10372 (total rows 10372); Round 23 cumulative +121
+- **Themes kept**: Claude Code subagent Opus burn & weekly efficiency collapse; ChatGPT↔Codex shared pool early rollout + opaque Instant carve-out; Claude spend-cap fleet; Grok Bot opaque weekly jumps/AFK burn/voice usage UX; Antigravity terminate + Argon→Flash meter cross-drain; Always Allow path-scoped lease; AGENTS.md/CLAUDE.md ignored when long; Codex project junk cleanup; Claude Ultra 5h pause removed draining week; -p double burn; Hermes blocked-action silent summaries; webhook arrive-or-not; voice≠local Claude Code handoff; MCP install context bloat; n8n Agent Runaway/Spend Guard
+- **Thin / next (b4)**: SSO/SCIM seat sync still thin; enterprise DLP/CASB blocked tools thin; JA weekly-reset UX thin; IDE notification storms; CI agent flaky quarantine; browser-use cookie expiry; calendar/email send without confirm; mobile PR diffs; invoice/VAT; OpenHands/Aider parity; Grok Bot routine silent fail deepen
+- **STOP after b4** per dispatch; left≈750 ≫120 so continue b4 then stop
+
+
+## Round 23 batch 4 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: 70 X reads ingested (seeds 24 + page2 ~18 + diversify/author ~28)
+- **Scanned**: ~1500; pool new for r23_b4
+- **Left after**: ~680 / 1000 today
+- **CSV**: +32 → pp-10373..pp-10404 (total rows 10404); Round 23 cumulative +153
+- **Themes kept**: Grok Bot routine/hourly schedule silent burn & overnight meter jumps; Cursor cloud-agent retry-stuck glitch; Claude Code session death / Too-many-requests multi-session; supermarket login browser-use wall; Claude Ultra KYC reseller lockout; invoice review workflow; mid-task crash re-edit without checkpoints; shared Grok+Cursor weekly pool; Playwright 403 retry credit burn; Codex CI/Git fetch storms; malicious AGENTS.md follow rate; /schedule silent connector injection; JA Claude /usage reset UX + notification spam; ChatGPT Plus→Pro trap; Max→Ultra 10x admit; Claude KYC passport ban; PreToolUse hook digest pin
+- **Thin still**: SSO/SCIM seat sync; enterprise DLP/CASB blocked tools; mobile PR diffs first-person; VAT/invoice non-reseller sparse; OpenHands/Aider parity sparse
+- **STOP after b4** per dispatch (no b5). left≈680 ≫120 so later worker may continue b5+ if desired
+
+## Round 23 batch 5 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: 77 X reads ingested (seeds 25 + page2 16 + prior-page3 12 + diversify/extra-page2 ~24)
+- **Scanned**: ~1747; pool new for r23_b5
+- **Left after**: ~603 / 1000 today
+- **CSV**: +37 → pp-10405..pp-10441 (total rows 10441); Round 23 cumulative +190
+- **Themes kept**: ChatGPT↔Codex shared pool Instant carve-out / Thinking drain; Antigravity Argon vs 3.8/Claude meter cross-drain + terminate-on-error; Grok Bot Slack/routine weekly burn; malicious AGENTS.md in Downloads + /schedule connector warn; Claude multi-session Too-many-requests; Doubao quota mid-workflow; Codex personal invoice vs 对公; JA weekly/5h reset opacity; stale CLAUDE.md still followed; corporate proxy/certs block agents
+- **Still thin**: SSO/SCIM seat sync first-person; enterprise DLP/CASB blocked tools; Always Allow path-scoped lease (sparse this batch); mobile PR diff readability first-person
+- **STOP after b6** per dispatch (no b7). left≈603 ≫120 so b6 then stop; later may continue b7+ if left>120
+
+## Round 23 batch 6 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: 64 X reads ingested (seeds 24 + page2 24 + diversify 16). Note: a bulk-ingest of stale agent-tools dumps was attempted then rolled back in stats; triage/picks used allowlisted real r23_b6 sources only (s01–s24 + newest 40 dumps).
+- **Scanned**: ~1441 from real b6 dumps
+- **Left after**: ~539 / 1000 today
+- **CSV**: +31 → pp-10442..pp-10472 (total rows 10472); Round 23 cumulative +221
+- **Themes kept**: Playwright cookie/session non-reuse + mid-run CDP break; Codex Desktop Windows xlsx send hang / browser open fail / Side Chats gone / WSL path confusion; Cursor notify sound won't mute; multi-agent notification storms; agent disables monitoring notify; pytest zero-tests green + flaky quarantine ownership; Claude Desktop SSO patchy; Grok Always-allow 10-min expiry; Feishu agent sync delay/Windows crash/Hermes sync gap; Hermes Desktop Windows unusable; kill-switch≠spend-cap email bypass; local LLM tool-schema hang/mismatch; public MCP ~40% fail
+- **Still thin**: calendar/email send-without-confirm first-person sparse; pure SSO/SCIM seat provisioning; enterprise DLP blocked Cursor tools; mobile PR diff readability; Always Allow path-scoped worktree rename
+- **STOP after b6** per dispatch (no b7). left≈539 ≫120 so **b7+ still needed** (yes if left>120)
+
+## Round 23 batch 7 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: 85 X reads ingested (seeds 24 + page2 19 + diversify 24 + page3/extra 18). ~10 invalid/empty burns (≠ in query, truncated next_token page3 attempts, empty pages). True left≈444/1000.
+- **Scanned**: ~1797; pool new for r23_b7 ~488 unreviewed then curated
+- **Left after**: ~444 / 1000 today
+- **CSV**: +36 → pp-10473..pp-10508 (total rows 10508); Round 23 cumulative +257
+- **Themes kept**: Codex Desktop/app Side Chat broken + browser host/tabs/logins + file:// Browser Use (JA); Claude Code incomplete finish notifications / always-monitor; CI agent zero-tests-as-pass, healthcheck rewrite false-green, loosened/deleted asserts & skips; Sheep MCP session closed / CDP mid-navigate stale DOM; Hermes Desktop lag, setup hour, gateway port mismatch, token fail after VM pause, standalone-install wait, Windows ARM; Ollama/local JSON-schema tool-call drift & MCP 2.0 install explode (ZH); agent metric chase without ask + send/confirm gates; ZH invoice/tax unmet by booking demos; Claude Desktop login/UX gaps; Codex mobile gaps vs t3; agent self-grade always-ready; JA unexpected Codex switch + Aider local retry-fail; Feishu+local-agent sync pits
+- **Still thin**: pure SSO/SCIM seat provisioning first-person; enterprise DLP/CASB blocked Cursor tools; calendar/email send-without-confirm sparse first-person; Playwright cookie non-reuse first-person sparse (CDP/session adjacent kept)
+- **STOP after b8** per dispatch (no b9). left≈444 ≫120 so **b8 needed** then stop
+
+## Round 23 batch 8 — 2026-11-04 Asia/Shanghai morning
+
+- **Calls**: 70 X reads ingested (seeds 24 + page2 20 + diversify 26). 1 invalid burn (.env in query). True left≈373/1000.
+- **Scanned**: ~1656; pool new for r23_b8 ~540 then curated
+- **Left after**: ~373 / 1000 today
+- **CSV**: +34 → pp-10509..pp-10542 (total ~10542); Round 23 cumulative +291
+- **Themes kept**: reward-hacking vs fail monitors; heartbeat waste after model deprecation; stale context / false 200 OK; Skills/plugins broken or never-loaded + auto-install without consent; PR description-first / PR body vs risk-note / PR summary lies vs skipped tests; subagent cache/attribution/silent plan-change & missing per-node cost; Slack wrong-channel fire risk; mid-task provider switch drops context; Playwright cookie leak across parallel agents; screenshot/OCR unaudited steer channel + desktop screenshot privacy (ZH); silent model/quota downgrades (ZH); AGENTS.md telemetry-gated silent skip; Grok Bot unify bricks account; stale Playwright chromium with keys on same machine; local embedding silent NaN (ZH)
+- **Still thin**: pure enterprise SSO/SCIM seat first-person; DLP/CASB blocked Cursor tools first-person; calendar/email send-without-confirm still sparse; Teams-specific wrong-channel sparse (Slack adjacent kept)
+- **STOP after b8** per dispatch (no b9). left≈373 ≫120 so **b9+ still needed later** if left>120
+
+## Round 23 batch 9 — 2026-11-04 Asia/Shanghai afternoon
+
+- **Calls**: 60 X reads ingested (seeds 24 + page2 12 + diversify 24). 1 empty diversify result.
+- **Scanned**: ~1312; pool new for r23_b9 ~501 unreviewed then curated
+- **Left after**: ~312 / 1000 today
+- **CSV**: +33 → pp-10543..pp-10575 (total ~10575); Round 23 cumulative +324
+- **Themes kept**: computer-use overnight/CAPTCHA/save-dialog stuck; agent worktree orphans/disk flood/Windows junction hazard; agent wiped prod + over-scoped/admin tokens; personal↔team Super seat desync; SSO offboard incomplete/shadow IT (ZH); Zscaler/proxy blocks Grok Bot; Message Threads 5-min expiry; voice→coding handoff & Duet gaps; orchestration without kill-switch / cost attribution; JA invoice false-sent / wrong billing / draft still-manual / surprise overage / process chaos / accounting MCP lockout; JA unattended schedule silent-fail; ZH Doubao VPN settle pit
+- **Still thin**: pure enterprise SCIM seat provision first-person; DLP/CASB blocked Cursor tools first-person; mobile PR diff readability first-person; OpenHands/Aider parity sparse; Feishu AI seat sync sparse
+- **Next (b10)**: deepen SSO/SCIM provision, DLP/CASB first-person, mobile PR, OpenHands/Aider, Background Agent queue, Feishu seats, JA 社内ポリシー/勝手送信; left≈312 ≫120 so continue
+
+## Round 23 batch 10 — 2026-11-04 Asia/Shanghai afternoon
+
+- **Calls**: 60 X reads ingested (seeds 24 + page2 14 + diversify 22). 1 empty page2.
+- **Scanned**: ~1266; pool curated from allowlisted r23_b10 dumps
+- **Left after**: ~252 / 1000 today
+- **CSV**: +34 → pp-10576..pp-10609 (total 10609); Round 23 cumulative +358
+- **Themes kept**: scheduled agents DST/UTC skew + TZ mid-swap re-fire; Cursor cloud agents down / pod-not-found; Grok Bot Feishu MCP blocked + Feishu CLI bridge (ZH); third-party Feishu over-scope; multi-IM isolation; corp Claude seat abuse firing (ZH); JA shadow-AI / policy / Panasonic PII-to-banned-AI / RIZAP mis-send / Samsung ban lesson / Muse undo risk; voice coding interrupt + music conflict + typing still wins; Doubao IME/link UX (ZH); Aider no tool-calling loop; scoped/revocable credentials; local vs cloud Claude schedule config; web chat expire Feishu watch; metered API invoice shock; enterprise RAG ACL staleness; agent publish gate
+- **Still thin**: pure SCIM provision first-person; DLP/CASB blocked Cursor tools first-person; mobile PR diff readability; OpenHands runtime crash first-person; Ollama schema hang first-person
+- **Next (b11)**: left≈252 ≫120 — continue toward floor≈100; deepen thin themes + sparse quote/reply
+
+## Round 23 batch 11 — 2026-11-04 Asia/Shanghai afternoon
+
+- **Calls**: 133 X reads ingested (seeds 24 + page2 16 + diversify 48 + extras 45). Stopped at left≈119 (floor band).
+- **Scanned**: ~2663 from allowlisted r23_b11 dumps
+- **Left after**: ~119 / 1000 today (NEVER below 100)
+- **CSV**: +34 → pp-10610..pp-10643 (total 10643); Round 23 cumulative +392
+- **Themes kept**: Swiss/Anthropic VAT invoice invalid; Cursor Cloud Agent multi-hour down + pod-not-found; Grok Bot Feishu connector/MCP closed-beta (ZH); Codex→Kimi API bridge pits (ZH); domestic coding-plan traps (ZH); Ollama GGUF/tools reject; JA shadow-AI 70% unprepared / ban underground / reporting penalty / Samsung paste ban / RIZAP mis-send / Panasonic PII; AI kill-switch after over-grant + retry spiral; Doubao coding Anaconda license; Kimi Computer Use; browser agent CAPTCHA ban-on-retry; worktree parallel open/close + Windows NTFS; multi-Codex stuck status; shared memory git trust; Claude Enterprise Inference Hooks DLP (Netskope/Zscaler)
+- **STOP**: left≈119 in target band (~100–120); no further mining this turn
+
 ## Round 23 (2026-11-04)
 - Rows: pp-10252..pp-10643 (+392); categories: quota 57, reliability 22, cost 17, metering 15, security 14, billing 13, UX 12, memory 10, workflow 10, observability 7, permissions 7, context 6, rules 6, CI 5, integration 4, browser 4, enterprise 3, multi-agent 2, quality 2, sandbox 1, agent-behavior 1, ToB 1, bug 1, local_llm 1, Codex Desktop / ChatGPT app 1, Codex Desktop browser 1, Codex Desktop Browser Use 1, Claude Code notifications 1, CI agents zero-tests 1, CI agent false green 1, Agent PR test edits 1, CI deleted tests 1, CI fake green 1, CI skip/delete guard 1, CI assert rewrite 1, CI MCP drift 1, Browser MCP session 1, CDP mid-navigate 1, Hermes Desktop lag 1, Hermes setup friction 1, Hermes Desktop gateway 1, Hermes token mid-task 1, Hermes Desktop install 1, Hermes Desktop package 1, Hermes Windows ARM 1, Ollama tool schema 1, Local tool schema 1, Local MCP install 1, Local LLM JSON wrong 1, Agent outbound metrics 1, Agent send confirm 1, Agent invoice/tax 1, Claude Desktop UX 1, Claude Desktop login 1, Codex mobile gaps 1, Agent self-grade 1, Codex chat switch 1, Provider update spam 1, Aider local LLM 1, Feishu agent sync 1, Agent eval reward hacking 1, Agent heartbeat waste / deprecation 1, Stale agent context 1, Stale context false OK 1, Skills install broken 1, Plugin auto-install consent 1, PR description before code 1, PR body vs risk note 1, Subagent cache burn ZH 1, Usage attribution silent zero ZH 1, Subagent origin mislabel ZH 1, Subagent cost attribution 1, Subagent bill share 1, Subagent silent plan change 1, Slack wrong channel 1, Mid-task model switch drop 1, Playwright cookie leak agents 1, Screenshot steganography steer 1, PR summary lies vs CI 1, Agent self-docs stale 1, Skills silent fail cross-tool ZH 1, Silent model downgrade ZH 1, Silent quota cut SuperGrok ZH 1, AGENTS.md silent skip 1, Eval judge silent swap ZH 1, Desktop agent screenshot privacy ZH 1, GPT silent model downgrade ZH 1, Grok Bot unify brick 1, Grok Bot unify account brick 1, Playwright stale browser build 1, Reward hacking spreads 1, Mid-task model switch limits 1, Local embedding silent NaN ZH 1, Stale scoped notes 1, Computer-use overnight stuck 1, Computer-use CAPTCHA stuck 1, Computer-use save dialog 1, Agent worktree orphans 1, Agent worktree disk flood 1, Agent worktree disk hide 1, Codex worktree disk burn 1, Worktree prune refill 1, Worktree cleanup Windows hazard 1, Agent wiped prod 1, Agent root over-scope 1, Over-scoped token in repo 1, Long-lived admin token 1, Agent runaway no black box ZH 1, Personal vs team seat desync 1, SSO offboard incomplete ZH 1, Zscaler proxy blocks Grok Bot 1, Message Threads 5-min expiry 1, Message Threads not durable 1, Voice mode Claude Duet gaps 1, Voice note to agent handoff 1, Orchestration without kill-switch 1, Kill-switch vs cost attribution 1, JA agent false sent status 1, JA accidental wrong billing 1, JA invoice draft still manual 1, JA Claude surprise invoice 1, JA invoice split Claude vs Gemini 1, JA accounting MCP lockout 1, JA invoice process chaos 1, JA scheduled update silent fail 1, JA unattended schedule gaps 1, ZH Doubao coding VPN settle 1, Scheduled agents DST skew 1, Timezone only in chat mid-swap 1, Cursor cloud agents down 1, Cloud agent pod not found 1, Grok Bot Feishu MCP blocked ZH 1, Third-party Feishu over-scope ZH 1, Multi-IM bot isolation ZH 1, Company Claude private abuse ZH 1, JA shadow AI policy risk 1, JA unauthorized corp AI dumps 1, JA AI search blocked by IT 1, JA customer data to genAI 1, JA Samsung ChatGPT ban lesson 1, Voice coding interrupt needed 1, Voice vs music coding conflict 1, Typing still beats voice coding 1, Doubao IME voice vs type ZH 1, Aider no tool-calling loop 1, Agent needs scoped credentials 1, Local scheduled Claude Desktop 1, Web chat expire Feishu watch ZH 1, Grok Bot Feishu context bridge ZH 1, Browser crash wallet reimport ZH 1, Metered API invoice shock 1, Enterprise AI DLP demo 1, Superadmin key wiped prod 1, JA Muse email calendar undo risk 1, JA Panasonic banned AI leak 1, JA banned AI upload PII 1, Enterprise RAG ACL staleness 1, Agent publish gate needed 1, Revocable agent credentials 1, Doubao no direct link copy ZH 1, Claude agents fix PC crash 1, Swiss VAT invoice invalid 1, Cursor Cloud Agent multi-hour down 1, Grok Bot Feishu connector dead ZH 1, ZH domestic coding plan traps 1, Ollama rejects tools GGUF 1, JA 70% firms no shadow-AI defense 1, JA ban drives shadow AI underground 1, JA shadow AI reporting penalty 1, JA ban causes shadow AI spread 1, JA Samsung ChatGPT source leak 1, JA shadow AI no company rules 1, AI kill switch after over-grant 1, Kill switch vs retry spiral 1, Doubao coding Anaconda license ZH 1, Doubao Grok voice pipeline pits ZH 1, Local LM Studio overnight bugs 1, Voice note to agent then humans 1, Apple China AI permission caution ZH 1, Tongyi Tingwu meeting notes ZH 1, Salesforce agent kill switch 1, Ollama serving traps registry 1, Doubao skill install censored ZH 1, Student API wool Kimi GLM ZH 1, One-model invoice sorter cost 1, JA RIZAP customer AI mis-send 1, JA Panasonic banned-AI PII dump 1, Browser agent CAPTCHA ban risk 1, Worktree parallel open/close pain ZH 1, Multi-agent same-dir clash JA 1, Codex parallel worktree status JA 1, Shared memory across agents trust 1, Grok Bot Feishu connector beta ZH 1, Claude Enterprise DLP Inference Hooks 1, JA Claude Enterprise DLP hooks 1
 - X reads today: 881 used / 119 left
