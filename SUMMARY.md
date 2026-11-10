@@ -1124,6 +1124,8 @@ Fresh morning round after X daily reset. Rotate angles vs Round 26: hidden/think
 
 
 
+
+
 ## Round 29 (2026-11-10)
 - Rows: pp-12755..pp-12919 (+165); categories: quota 50, reliability 21, mobile 18, billing 13, ux 13, workflow 9, tools 8, memory 7, quality 6, bug 4, observability 3, account 3, security 2, integration 2, voice 2, cost 2, connectors 1, publisher 1
 - X reads today: 206 used / 794 left
@@ -1148,10 +1150,9 @@ Fresh angles today (avoid copying r28_b15–b18 verbatim): agent memory/compacti
 - Morning worker STOP after b1–b3; next worker continues at b4 (left≫120)
 
 ## b4 (morning worker) — 2026-11-10 ~08:40–09:20 Asia/Shanghai
-- Calls: 52 (25 seeds + 12 page2 + 15 diversify incl. 1 invalid+retry); posts scanned: 1207; left≈794; picks: +734 (pp-6935..pp-12919)
+- Calls: 52 (25 seeds + 12 page2 + 15 diversify incl. 1 invalid+retry); posts scanned: 1207; left≈794; picks: +38 (pp-12882..pp-12919)
 - Themes: calendar/OTP/passkey/credential blocks; QuickBooks connector read-only; publisher refuse; rotating egress captcha loops; group-chat mention routing; Cursor Privacy Mode / .mdc rules; Claude Remote Control; Devin rate limit; JA Astra/Dots slow & Grok cancel; ZH idle burn & privacy
 - Queries: raw/r29_b4_queries_clean.txt + diversify; avoided b1–b3 verbatim
-
 
 ## Round 28 b11 (2026-11-09 Asia/Shanghai)
 - Seeds 25 + page2 12 + diversify 14 = 51 X reads; lowest left≈433
