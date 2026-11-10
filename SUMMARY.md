@@ -1,14 +1,14 @@
 # X User Pain Points — AI agents / assistants / coding agents
 
-Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-2687; Round 8 (2026-10-18) = pp-2688..pp-4755; Round 9 (2026-10-21) = pp-4756..pp-5805; Round 10 (2026-10-22) = pp-5806..pp-6506; Round 11 (2026-10-23) = pp-6507..pp-7083; Round 12 (2026-10-24) = pp-7084..pp-7452; Round 13 (2026-10-25) = pp-7453..pp-7814; Round 14 (2026-10-26) = pp-7815..pp-7917; Round 15 (2026-10-28) = pp-7918..pp-8006; Round 16 (2026-10-28) = pp-8007..pp-8209; Round 17 (2026-10-29) = pp-8210..pp-8457; Round 18 (2026-10-30) = 0 rows (failed); Round 19 (2026-10-31) = pp-8458..pp-9004; Round 20 (2026-11-01) = pp-9005..pp-9444; Round 21 (2026-11-02) = pp-9445..pp-9820; Round 22 (2026-11-03) = pp-9821..pp-10251; Round 23 (2026-11-04) = pp-10252..pp-10643; Round 24 (2026-11-05) = pp-10644..pp-11091; Round 25 (2026-11-06) = pp-11092..pp-11598; Round 26 (2026-11-07) = pp-11599..pp-12117; Round 28 (2026-11-09) = pp-12413..pp-12754; Round 29 (2026-11-10) = pp-12755..pp-12838
+Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-2687; Round 8 (2026-10-18) = pp-2688..pp-4755; Round 9 (2026-10-21) = pp-4756..pp-5805; Round 10 (2026-10-22) = pp-5806..pp-6506; Round 11 (2026-10-23) = pp-6507..pp-7083; Round 12 (2026-10-24) = pp-7084..pp-7452; Round 13 (2026-10-25) = pp-7453..pp-7814; Round 14 (2026-10-26) = pp-7815..pp-7917; Round 15 (2026-10-28) = pp-7918..pp-8006; Round 16 (2026-10-28) = pp-8007..pp-8209; Round 17 (2026-10-29) = pp-8210..pp-8457; Round 18 (2026-10-30) = 0 rows (failed); Round 19 (2026-10-31) = pp-8458..pp-9004; Round 20 (2026-11-01) = pp-9005..pp-9444; Round 21 (2026-11-02) = pp-9445..pp-9820; Round 22 (2026-11-03) = pp-9821..pp-10251; Round 23 (2026-11-04) = pp-10252..pp-10643; Round 24 (2026-11-05) = pp-10644..pp-11091; Round 25 (2026-11-06) = pp-11092..pp-11598; Round 26 (2026-11-07) = pp-11599..pp-12117; Round 28 (2026-11-09) = pp-12413..pp-12754; Round 29 (2026-11-10) = pp-12755..pp-12881
 
 ## Stats
-- Total rows: 12838 (round 29 added 84)
-- Language split (all): {'en': 10431, 'zh': 1505, 'other': 1, 'ja': 885, 'pt': 5, 'es': 4, 'ko': 7}
+- Total rows: 12881 (round 29 added 127)
+- Language split (all): {'en': 10463, 'zh': 1509, 'other': 1, 'ja': 892, 'pt': 5, 'es': 4, 'ko': 7}
 - Language split (round 20): {'en': 306, 'zh': 121, 'ja': 13}
 - Language split (round 21): {'en': 285, 'zh': 52, 'ja': 39}
 - Language split (round 27): {'en': 238, 'ja': 25, 'zh': 32}
-- Language split (round 29): {'en': 59, 'zh': 12, 'ja': 13}
+- Language split (round 29): {'en': 91, 'zh': 16, 'ja': 20}
 - Language split (round 28): {'en': 313, 'ja': 9, 'zh': 20}
 - Language split (round 26): {'en': 405, 'zh': 76, 'ja': 38}
 - Language split (round 25): {'en': 400, 'zh': 42, 'ja': 65}
@@ -29,30 +29,30 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 - Language split (round 7): {'en': 869, 'zh': 120, 'ja': 38}
 - Language split (round 6): {'en': 89, 'zh': 17, 'ja': 2}
 - Language split (round 5): {'en': 523, 'ja': 30, 'zh': 40}
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
-- Cumulative search calls: 14937; cumulative posts scanned: 304583
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
+- Cumulative search calls: 14988; cumulative posts scanned: 305807
 
 ## Category counts (all rows)
-- quota: 2110
-- reliability: 1632
+- quota: 2117
+- reliability: 1635
 - UX: 876
-- billing: 831
+- billing: 833
 - integration: 590
-- workflow: 476
-- cost: 353
+- workflow: 479
+- cost: 355
 - quota-billing: 296
 - support: 287
 - permissions: 281
-- bug: 271
+- bug: 273
 - security: 241
-- observability: 233
-- account: 222
+- observability: 234
+- account: 224
 - feature-request: 215
-- memory: 213
-- quality: 202
-- tools: 175
-- voice: 153
-- ux: 139
+- memory: 214
+- quality: 203
+- tools: 176
+- voice: 154
+- ux: 142
 - multi-agent: 134
 - context: 129
 - browser: 125
@@ -70,12 +70,12 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 - Reliability: 49
 - performance: 47
 - agent-behavior: 43
+- mobile: 42
 - evals: 38
 - automation-scheduling: 36
 - product: 35
 - enterprise: 33
 - integrations: 32
-- mobile: 28
 - Agent Latency / Streaming: 26
 - limits: 25
 - access: 24
@@ -672,7 +672,7 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 
 ## Round 8 (2026-10-18)
 - Rows: pp-2688..pp-4755 (+2068); categories: reliability 362, quota 292, UX 239, integration 160, billing 130, quality 88, tools 76, permissions 54, observability 53, memory 50, cost 46, support 46, voice 45, browser 41, safety 41, context 37, multi-agent 36, ToB 36, bug 33, workflow 26, security 25, limits 24, account 24, scheduling 22, privacy 21, sandbox 10, feature-request 8, evals 6, performance 5, deploy 4, sync 3, safety-filter 3, pricing 3, workplace 3, product 3, cloud 2, product-direction 2, region 2, instructions 2, network 1, setup 1, remote 1, update 1, rollout 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 - Batch 1 (pp-2688..pp-2848, +161): fresh window since 2026-10-16T12Z; product x frustration/wish keyword sweeps (Codex, Claude Code/desktop, Cursor, Copilot, Gemini/Antigravity, ChatGPT Work/Dots, Grok Bot; EN+ZH+JA), plus reply mining of new seeds: thsottiaux Day 13 reset (2111492673890824348) + "Done" (2111566005684289735) + work/personal dot (2111495392559067199), poteto "is chat the final form of agent ui?" (2111321176769442251), CodexResets1 Plus drain (2111396596386611652), elonmusk "Grok Bot got much faster" (2111239586873745604) and X DMs (2111239205951086616), GoogleAIStudio Argon for AI Pro (2111240722426802258), quotes of Day 13.
 - New themes: ChatGPT Dots approval loops (auto-approver overriding explicit approvals, Codex-session approvals looping, "Waiting for approval" forever), Dots forgetting tasks / 429 outages / no done-notification / can't remove lost devices; Codex surprise early resets shifting the weekly window and wasting banked reset cards, $500 plan draining like $20, image-containing threads bloating, Computer Use locking the Mac, Windows Explorer freezes; Claude desktop next-step/question box skipping replies and hiding intermediate actions; chat-as-agent-UI breaking down for many parallel topics/swarms.
 - Also: Gemini 4 Argon weekly quota gone in 1-3 prompts on AI Pro, Argon missing in Antigravity / bundle (Jio, Coursera, student) accounts, Antigravity real context 256K vs advertised 1M; unified X/Grok/Cursor plan: less usage, lost credits/benefits, wrong-account linking, India checkout failures, Cursor/Grok Bot bans with only AI support replies; Grok Bot can't post to X or read encrypted DMs, background tasks stop at ~50 min, no per-bot token usage.
@@ -731,7 +731,7 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 
 ## Round 9 (2026-10-21)
 - Rows: pp-4756..pp-5805 (+1050); categories: quota 152, feature-request 93, reliability 65, integration 61, UX 58, account 58, bug 57, billing 47, voice 31, sandbox 31, pricing 31, quality 30, permissions 29, support 27, performance 26, memory 18, cost 18, observability 17, context 14, transparency 14, access 13, agent-behavior 12, browser 10, ToB 9, tools 9, enterprise 9, multi-agent 8, collaboration 8, refusals 8, scheduling 7, platform 7, ux 7, privacy 6, safety 5, data-loss 5, model-quality 5, model-choice 4, docs 4, security 4, approvals 3, cloud-agent 3, computer-use 3, scheduled-tasks 3, workflow 2, automation 2, model-routing 2, availability 2, consistency 2, personalization 1, limits 1, policy 1, accessibility 1, migration 1, browser-agent 1, regression 1, remote-agent 1, discoverability 1, notifications 1, data-export 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 - Batch 1 (pp-4756..pp-5140, +385): fresh window since 2026-10-18T12:00Z. Angles: per-product complaint/question phrasing (Codex, Claude Code, Claude desktop/Cowork/iOS, Cursor, ChatGPT/Dots/Work/Atlas, Antigravity/Gemini app/Argon, Copilot, Grok Bot/SuperGrok/Grok Build, Manus/Devin/Replit/Lovable/Bolt, Perplexity/Comet, Hermes/OpenClaw, Kiro/OpenCode etc.), generic agent/memory/scheduling/sandbox/MCP/voice/cloud-agent/rm -rf/refund phrasing, ZH/JA (+a few ES/PT) phrasing; the most productive move was `to:` reply searches aimed at official/team accounts (to:bot, to:thsottiaux, to:OpenAIDevs/OpenAI, to:claudeai/AnthropicAI/bcherny/trq212, to:cursor_ai/ericzakariasson/leerob, to:antigravity/GeminiApp/OfficialLoganK, to:poteto/mattyp, to:cognition/Replit/boltdotnew) in time slices, plus conversation_id replies to Tibo's 40k-accounts post (2112592264686149749) and reset posts.
 - New themes: Codex ~40k accounts metered on the wrong plan (post-downgrade) and users with no email/credits/way to verify eligibility; "Selected model is at capacity"/"workspace routing discovery timed out"/remote compaction failures; Codex CLI `-a never` still blocking on MCP approval and approval mode not persisting; A2A sub-agent storms; 475K context cap despite 1M model; random resets wiping leftover quota; ChatGPT Work "No usable execution environment" outage and desktop app forcing Work mode; Dots silent after "I'm on it", lost cloud files, cua_repl vanishing, can't see other threads; Claude desktop wake-lock every 5s, connectors global so disabling one breaks scheduled tasks, Chat/Cowork merger force-converting chats, Cowork guard blocking allowed hooks, overnight Claude Code rm -rf inside test script; Gemini 4 Argon quota (one prompt = 11-33% of 5h) and Argon missing from Antigravity IDE / discount & Jio plans; Antigravity moving to an extension; Gemini Spark agent couldn't be stopped; Grok Bot unified-account/merge lockouts, permanent non-renamable bot email, per-mailbox send permissions, routines edit broken, per-bot/per-routine usage missing, memory leak on shared computer, Starlink/Bugcrowd/X posting blocked, WhatsApp relink every 3-4 days, voice quirks; Cursor annual sub wiped on Plus cancel, Cursor+Grok unified usage burning 18-20%/day; Devin Oncall internal automation burning quota and undeletable; Perplexity local agent needing 36GB Mac.
 - Reads: 101 used this batch (1000 -> 899 left today). Yield ~3.8 rows/read; `to:` official-account reply slices >> generic keyword searches; Dots/ChatGPT Work and Grok Bot team replies are rich and fresh.
@@ -744,7 +744,7 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 
 ## Round 10 (2026-10-22)
 - Rows: pp-5806..pp-6506 (+701); categories: quota 190, reliability 59, account 47, billing 43, UX 38, cost 34, quality 30, integration 24, availability 18, support 18, observability 17, permissions 16, memory 15, feature_request 15, feature 15, computer_use 14, pricing 14, bug 14, performance 11, context 11, feature-request 10, access 8, voice 6, multi-agent 4, refusal 3, config 2, scheduled_tasks 2, enterprise 2, safety 2, onboarding 2, refund 2, ux 2, collaboration 1, accessibility 1, model_lifecycle 1, lock_in 1, data-loss 1, transparency 1, privacy 1, sandbox 1, limit 1, trust 1, compatibility 1, data loss 1, policy 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 ## Round 10 batch 1 (2026-10-22, Asia/Shanghai)
 - Rows pp-5806..pp-6115 (+310; total 6115). Strict dedupe: post-id dupes 0; dropped 5 same-user near-duplicates of earlier rows (Bombastasticus, ak47mnft, vedntp, DJDEEZ, MelansonIndus). Language: en 296 (incl. a few ES/PT/FR mapped to en), zh 11, ja 3. Queries in raw/r10_b1_queries.txt; picks in raw/picks_r10_b1.txt + raw/picks_r10_b1_p2.txt; triage in raw/tri_r10_b1[a-p].txt.
 - Angles: fresh official-post reply threads since 10-21 (Claude Duet launch 2112984664256241837 pain p1-p10 + relevancy p1-p4; Tibo "Dot, Dotter, Dottest" 2113029655095836957 pain p1-p9; Tibo Day16 caching; poteto Pages; mattyp iPhone action button; Logan Argon 25T tokens; Claude Security; Notion Agent upgrade/API version), PAIN-filtered to: replies since 10-21 (bot, Anthropic, Cursor, Gemini/Antigravity, OpenAI, Tibo outside Dot thread, Notion/Perplexity/Manus/Cognition), Grok Bot topical/usage-mismatch replies, under-covered 10-19/20 Grok Bot seeds (poteto "what did you get done"), and fresh keyword angles (compaction/context, instruction-file drift, false-success, hooks/skills/plan mode, office/browser add-ins, babysitting, AI-only support with no human, Windows/WSL, destructive git, looping agents, approval fatigue, ZH/JA new-product terms).
@@ -826,7 +826,7 @@ Rows pp-6116..pp-6506 (391): 114 recovered R9 b4 picks (pp-6116..pp-6229; 117 or
 
 ## Round 20 (2026-11-01)
 - Rows: pp-9005..pp-9444 (+440); categories: quota-billing 122, reliability-bug 93, tooling-integration 51, security-privacy 47, ux-friction 42, automation-scheduling 36, enterprise-team 23, browser-computer-use 14, memory-context 7, feature-request 5
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 # Round 20 notes — 2026-11-01 Asia/Shanghai
 
 ## b1 — 2026-11-01 Asia/Shanghai
@@ -997,7 +997,7 @@ Rows pp-6116..pp-6506 (391): 114 recovered R9 b4 picks (pp-6116..pp-6229; 117 or
 
 ## Round 27 (2026-11-08)
 - Rows: pp-12118..pp-12412 (+295); categories: reliability 97, ux 47, quota 28, workflow 26, billing 24, privacy 20, cost 9, support 8, account 7, security 6, voice 6, safety 4, UX 3, sandbox 3, quality 2, feature-request 2, control 1, browser 1, permissions 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 # Round 27 notes — 2026-11-08 Asia/Shanghai
 
 Fresh morning round after X daily reset. Rotate angles vs Round 26: hidden/thinking-token billing, group-chat @mention misroute, export/transfer data loss, signed-commit/CODEOWNERS, Windows/WSL paths, ignore-file leaks, MCP tool-output truncation, stale checkpoint resume, concurrent-agent file clobber, stale knowledge connectors, missing audit logs, data-residency/GDPR forget, student/family plan agent lockout, stream drop mid-edit, webhook/HMAC 验签, stale review comments, Ollama/LM Studio tool schema, vision/OCR drops, ZH 通义/钉钉/企微/混元/对公发票, JA 監査ログ/社内ポリシー/インボイス.
@@ -1119,9 +1119,11 @@ Fresh morning round after X daily reset. Rotate angles vs Round 26: hidden/think
 
 
 
+
+
 ## Round 29 (2026-11-10)
-- Rows: pp-12755..pp-12838 (+84); categories: quota 35, reliability 13, billing 9, memory 6, ux 4, quality 4, workflow 2, security 2, observability 2, integration 2, bug 2, connectors 1, account 1, mobile 1
-- X reads today: 103 used / 897 left
+- Rows: pp-12755..pp-12881 (+127); categories: quota 42, reliability 16, mobile 15, billing 11, memory 7, ux 7, workflow 5, quality 5, bug 4, observability 3, account 3, security 2, integration 2, cost 2, connectors 1, voice 1, tools 1
+- X reads today: 154 used / 846 left
 # Round 29 — 2026-11-10 Asia/Shanghai
 
 Morning routine start after X quota reset. CSV baseline: 12754 rows, last id pp-12754.
@@ -1136,6 +1138,11 @@ Fresh angles today (avoid copying r28_b15–b18 verbatim): agent memory/compacti
 ## b2 (morning worker) — 2026-11-10 ~08:19–08:40 Asia/Shanghai
 - Calls: 51; posts scanned: 1242; left≈897; picks: +44 (pp-12795..pp-12838)
 - Themes: box freeze/hang/spawn-fail & phone crash; inbox re-read burn; cloud-agent opt-out missing; unified vs legacy reset asymmetry; Fable/Codex 5h thrash; Claude reset UX confusion; Cursor BugBot/Autopilot dead-loop; ZH/JA unify/share-pool & UI 0%/83% flip; approval-card readability after C-drive wipe scare
+
+## b3 (morning worker) — 2026-11-10 ~08:40–09:05 Asia/Shanghai
+- Calls: 51; posts scanned: 1224; left≈846; picks: +43 (pp-12839..pp-12881)
+- Themes: widespread iOS/Android Grok Bot typing crash; bots vanished after Cursor merge; unified Ultra Cursor-Auto 10%/hr burn; cloud-agent handoff vs SSH; memory wipe/$200 identity thrash; context-bloat 39% quota; ZH VM sleep; JA Codex UI remote stall & ChatGPT context bug; Fable/Codex quota cliffs
+- Morning worker STOP after b1–b3; next worker continues at b4 (left≫120)
 
 ## Round 28 b11 (2026-11-09 Asia/Shanghai)
 - Seeds 25 + page2 12 + diversify 14 = 51 X reads; lowest left≈433
@@ -1349,7 +1356,7 @@ Fresh angles today (avoid copying r28_b15–b18 verbatim): agent memory/compacti
 
 ## Round 28 (2026-11-08)
 - Rows: pp-12413..pp-12754 (+342); categories: quota 113, connectors 42, reliability 37, ux 20, workflow 18, account 18, mobile 17, security 15, billing 13, memory 12, harness 11, disk 6, product 5, local_tools 4, computer_use 3, local_llm 3, eval 2, safety 1, voice 1, email 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 
 # Round 28 — 2026-11-09 Asia/Shanghai (afternoon manual resume)
 
@@ -1451,7 +1458,7 @@ Fresh angles today (avoid copying r28_b15–b18 verbatim): agent memory/compacti
 
 ## Round 26 (2026-11-07)
 - Rows: pp-11599..pp-12117 (+519); categories: quota 105, billing 100, reliability 78, workflow 56, security 39, account 26, ux 19, product 15, cost 11, permissions 10, bug 9, integration 8, memory 7, observability 6, multi-agent 5, UX 4, ToB 4, support 3, enterprise 3, quality 2, mobile 2, privacy 2, tools 1, scheduling 1, sandbox 1, voice 1, trust 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 # Round 25 notes — 2026-11-06 Asia/Shanghai
 
 Fresh morning round after X daily reset. Rotate angles vs Round 24: multi-agent races, shared-memory authorship, schedule/TZ misses, overnight computer-use SSO/CAPTCHA, mobile/Origin UX, /usage opacity, hooks fail-open, background↔foreground disconnect, voice mis-sends, plugin/skill regression after update, compaction eating rules, destructive agent ops, mid-task cliffs, SCIM/SSO/DLP (still thin), Feishu/ZH/JA billing, eval-cheat / auto-send, Aider/OpenHands/Continue.
@@ -1649,7 +1656,7 @@ Fresh morning round after X daily reset. Rotate angles vs Round 24: multi-agent 
 
 ## Round 25 (2026-11-06)
 - Rows: pp-11092..pp-11598 (+507); categories: reliability 113, UX 84, workflow 78, quota 74, billing 22, cost 21, integration 19, security 4, support 2, shared_memory_pollution 1, memory_authorship 1, cross_agent_memory_trust 1, mobile_codex_remote 1, mobile_codex_trust 1, mobile_codex_ux 1, mobile_widget_opaque 1, mobile_codex_android 1, mobile_remote_ios 1, ultra_quota_desync 1, usage_burn_opaque 1, bot_reread_burn 1, compaction_rule_loss 1, compaction_silent_loss 1, quota_cliff_subagents 1, shared_pool_drain 1, dual_window_cliff 1, five_hour_cliff 1, quota_bounce 1, destructive_db_wipe 1, hooks_vs_rules 1, multi_agent_burn 1, ja_weekly_reset_gate 1, eval_fake_pass 1, destructive_self_report 1, eval_assertion_rewrite 1, destructive_auth_delete 1, zh_kimi_pool_merge 1, feishu_workflow_burn 1, doubao_feishu_slow 1, mcp_consumer_wall 1, bg_subagent_status_burn 1, bg_agent_quota_leak 1, wrapup_allowance 1, multi_tool_quota_wall 1, mid_task_codex_limit 1, allowlist_agents_md 1, silent_model_downgrade 1, permission_tmux_burn 1, hooks_deny_bypass 1, ja_muse_mcp_quota 1, stale_memory_act 1, destructive_ask_first 1, computer_use_mailbox_delete 1, ultra_cursor_unify_desync 1, ultra_tesla_bot_blind 1, ultra_quota_cliff 1, usage_opacity_burn 1, shared_memory_regression 1, bg_subagent_restart_loss 1, destructive_invoice_wipe 1, zh_feishu_dlp_ban 1, ja_codex_remote_data 1, team_vs_max_limits 1, weekly_wrapup_pain 1, subscription_grace_over 1, wrapup_allowance_weekly 1, shared_pool_codex_chat 1, shared_pool_agents_eat 1, bg_status_reread_burn 1, bg_quota_drain_patch 1, multi_login_auto_switch 1, usage_opacity_desync 1, ja_claude_ignored 1, ja_usage_visibility 1, multi_agent_isolation 1, multi_agent_file_race 1, multi_agent_shared_machine 1, multi_agent_overwrite 1, multi_agent_isolation_miss 1, ultra_usage_wish 1, cursor_refund_silence 1, bot_swarm_burn 1, destructive_force_push_hidden 1, eval_tests_never_ran 1, auto_send_after_fact 1, ultra_upgrade_quota_desync 1, cursor_cloud_oom 1, codex_ios_sandbox 1, auto_topup_burst 1, premium_unify_billing 1, bot_usage_useless 1, legacy_super_quota_cut 1, destructive_rebuild_trap 1, bugbot_shared_pool_burn 1, shared_pool_split_advice 1, bg_status_burn_still 1, bg_status_reread_surprise 1, bg_status_cost_hidden 1, cloud_agent_paid_only 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 # Round 25 notes — 2026-11-06 Asia/Shanghai
 
 Fresh morning round after X daily reset. Rotate angles vs Round 24: multi-agent races, shared-memory authorship, schedule/TZ misses, overnight computer-use SSO/CAPTCHA, mobile/Origin UX, /usage opacity, hooks fail-open, background↔foreground disconnect, voice mis-sends, plugin/skill regression after update, compaction eating rules, destructive agent ops, mid-task cliffs, SCIM/SSO/DLP (still thin), Feishu/ZH/JA billing, eval-cheat / auto-send, Aider/OpenHands/Continue.
@@ -1847,7 +1854,7 @@ Fresh morning round after X daily reset. Rotate angles vs Round 24: multi-agent 
 
 ## Round 24 (2026-11-05)
 - Rows: pp-10644..pp-11091 (+448); categories: reliability 52, workflow 50, permissions 46, security 45, billing 43, quota 40, UX 31, cost 21, quality 17, quota_cliff 16, integration 8, observability 6, ja_autosend 6, memory 4, quota_ops 4, rules 3, zh_quota 3, tools 2, account 2, invoice_vat 2, false_done 2, computer_use_captcha 2, ide_crash 2, quota_midtask 2, voice 1, billing_desync 1, promo_credit_trap 1, silent_model_switch 1, computer_use_fear 1, cli_plugin_hijack 1, browser_agent_desync 1, session_desync 1, ja_context_rewrite 1, zh_pricing 1, ja_autonomous_edit 1, hallucination 1, org_spend_cap 1, supply_chain 1, memory_secrets 1, quota_reset_trap 1, cookie_jar 1, spend_cap_bypass 1, quota_meter 1, rules_hygiene 1, shared_memory 1, email_gate 1, ja_model_routing 1, ide_stability 1, bugbot_eval 1, shared_pool 1, model_ladder 1, quota_scarcity 1, ja_payment 1, mcp_permissions 1, ide_quota 1, eval_cheat 1, dashboard_lie 1, billing_shock 1, quota_tradeoff 1, quota_burn 1, ja_quota 1, quota_tightening 1, quota_opacity 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 # Round 24 notes — 2026-11-05 Asia/Shanghai
 
 ## Batch 1 (morning worker)
@@ -2986,7 +2993,7 @@ Fresh morning round after X daily reset. Rotate angles vs Round 24: multi-agent 
 
 ## Round 23 (2026-11-04)
 - Rows: pp-10252..pp-10643 (+392); categories: quota 57, reliability 22, cost 17, metering 15, security 14, billing 13, UX 12, memory 10, workflow 10, observability 7, permissions 7, context 6, rules 6, CI 5, integration 4, browser 4, enterprise 3, multi-agent 2, quality 2, sandbox 1, agent-behavior 1, ToB 1, bug 1, local_llm 1, Codex Desktop / ChatGPT app 1, Codex Desktop browser 1, Codex Desktop Browser Use 1, Claude Code notifications 1, CI agents zero-tests 1, CI agent false green 1, Agent PR test edits 1, CI deleted tests 1, CI fake green 1, CI skip/delete guard 1, CI assert rewrite 1, CI MCP drift 1, Browser MCP session 1, CDP mid-navigate 1, Hermes Desktop lag 1, Hermes setup friction 1, Hermes Desktop gateway 1, Hermes token mid-task 1, Hermes Desktop install 1, Hermes Desktop package 1, Hermes Windows ARM 1, Ollama tool schema 1, Local tool schema 1, Local MCP install 1, Local LLM JSON wrong 1, Agent outbound metrics 1, Agent send confirm 1, Agent invoice/tax 1, Claude Desktop UX 1, Claude Desktop login 1, Codex mobile gaps 1, Agent self-grade 1, Codex chat switch 1, Provider update spam 1, Aider local LLM 1, Feishu agent sync 1, Agent eval reward hacking 1, Agent heartbeat waste / deprecation 1, Stale agent context 1, Stale context false OK 1, Skills install broken 1, Plugin auto-install consent 1, PR description before code 1, PR body vs risk note 1, Subagent cache burn ZH 1, Usage attribution silent zero ZH 1, Subagent origin mislabel ZH 1, Subagent cost attribution 1, Subagent bill share 1, Subagent silent plan change 1, Slack wrong channel 1, Mid-task model switch drop 1, Playwright cookie leak agents 1, Screenshot steganography steer 1, PR summary lies vs CI 1, Agent self-docs stale 1, Skills silent fail cross-tool ZH 1, Silent model downgrade ZH 1, Silent quota cut SuperGrok ZH 1, AGENTS.md silent skip 1, Eval judge silent swap ZH 1, Desktop agent screenshot privacy ZH 1, GPT silent model downgrade ZH 1, Grok Bot unify brick 1, Grok Bot unify account brick 1, Playwright stale browser build 1, Reward hacking spreads 1, Mid-task model switch limits 1, Local embedding silent NaN ZH 1, Stale scoped notes 1, Computer-use overnight stuck 1, Computer-use CAPTCHA stuck 1, Computer-use save dialog 1, Agent worktree orphans 1, Agent worktree disk flood 1, Agent worktree disk hide 1, Codex worktree disk burn 1, Worktree prune refill 1, Worktree cleanup Windows hazard 1, Agent wiped prod 1, Agent root over-scope 1, Over-scoped token in repo 1, Long-lived admin token 1, Agent runaway no black box ZH 1, Personal vs team seat desync 1, SSO offboard incomplete ZH 1, Zscaler proxy blocks Grok Bot 1, Message Threads 5-min expiry 1, Message Threads not durable 1, Voice mode Claude Duet gaps 1, Voice note to agent handoff 1, Orchestration without kill-switch 1, Kill-switch vs cost attribution 1, JA agent false sent status 1, JA accidental wrong billing 1, JA invoice draft still manual 1, JA Claude surprise invoice 1, JA invoice split Claude vs Gemini 1, JA accounting MCP lockout 1, JA invoice process chaos 1, JA scheduled update silent fail 1, JA unattended schedule gaps 1, ZH Doubao coding VPN settle 1, Scheduled agents DST skew 1, Timezone only in chat mid-swap 1, Cursor cloud agents down 1, Cloud agent pod not found 1, Grok Bot Feishu MCP blocked ZH 1, Third-party Feishu over-scope ZH 1, Multi-IM bot isolation ZH 1, Company Claude private abuse ZH 1, JA shadow AI policy risk 1, JA unauthorized corp AI dumps 1, JA AI search blocked by IT 1, JA customer data to genAI 1, JA Samsung ChatGPT ban lesson 1, Voice coding interrupt needed 1, Voice vs music coding conflict 1, Typing still beats voice coding 1, Doubao IME voice vs type ZH 1, Aider no tool-calling loop 1, Agent needs scoped credentials 1, Local scheduled Claude Desktop 1, Web chat expire Feishu watch ZH 1, Grok Bot Feishu context bridge ZH 1, Browser crash wallet reimport ZH 1, Metered API invoice shock 1, Enterprise AI DLP demo 1, Superadmin key wiped prod 1, JA Muse email calendar undo risk 1, JA Panasonic banned AI leak 1, JA banned AI upload PII 1, Enterprise RAG ACL staleness 1, Agent publish gate needed 1, Revocable agent credentials 1, Doubao no direct link copy ZH 1, Claude agents fix PC crash 1, Swiss VAT invoice invalid 1, Cursor Cloud Agent multi-hour down 1, Grok Bot Feishu connector dead ZH 1, ZH domestic coding plan traps 1, Ollama rejects tools GGUF 1, JA 70% firms no shadow-AI defense 1, JA ban drives shadow AI underground 1, JA shadow AI reporting penalty 1, JA ban causes shadow AI spread 1, JA Samsung ChatGPT source leak 1, JA shadow AI no company rules 1, AI kill switch after over-grant 1, Kill switch vs retry spiral 1, Doubao coding Anaconda license ZH 1, Doubao Grok voice pipeline pits ZH 1, Local LM Studio overnight bugs 1, Voice note to agent then humans 1, Apple China AI permission caution ZH 1, Tongyi Tingwu meeting notes ZH 1, Salesforce agent kill switch 1, Ollama serving traps registry 1, Doubao skill install censored ZH 1, Student API wool Kimi GLM ZH 1, One-model invoice sorter cost 1, JA RIZAP customer AI mis-send 1, JA Panasonic banned-AI PII dump 1, Browser agent CAPTCHA ban risk 1, Worktree parallel open/close pain ZH 1, Multi-agent same-dir clash JA 1, Codex parallel worktree status JA 1, Shared memory across agents trust 1, Grok Bot Feishu connector beta ZH 1, Claude Enterprise DLP Inference Hooks 1, JA Claude Enterprise DLP hooks 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 # Round 23 notes — 2026-11-04 Asia/Shanghai
 
 
@@ -3549,7 +3556,7 @@ Fresh morning round after X daily reset. Rotate angles vs Round 24: multi-agent 
 
 ## Round 22 (2026-11-03)
 - Rows: pp-9821..pp-10251 (+431); categories: billing 40, quota-billing 25, security 22, quota 18, permissions 16, windows-desktop 14, ci-agents 14, workflow 12, computer-use 11, agent-hooks 11, enterprise 11, mcp 10, agent-handoff 9, multi-agent 9, product-ux 8, kill-switch 8, least-privilege 8, sandbox 7, local-models 7, tooling-reliability 6, security-privacy 6, voice-agents 6, evals 6, secrets 6, safety 6, personal-agent 6, memory-context 5, integrations 5, agent-send 5, git-agents 5, observability 4, session-portability 4, agent-evals 4, false-success 4, bugbot 4, prod-wipe 4, grok-bot 4, zh-agents 4, model-routing 3, vendor-lockin 3, agent-control 3, mobile 3, slack-agents 3, agents 3, rag-memory 2, collaboration 2, automation-nodes 2, workflow-automation 2, reliability 2, i18n 2, workbuddy 2, amp-opencode 2, auto-review 2, git-scale 2, shared-memory 2, connectors 2, skills 2, ja-agents 2, zh-quota 2, input-ime 1, mcp-tooling 1, interop 1, remote-sessions 1, web-access 1, plan-mode 1, context-bloat 1, git-safety 1, cost-controls 1, windows-disk 1, cloud-workers 1, trust-identity 1, messaging-agents 1, agent-sync 1, disk-storage 1, cost-control 1, cloud-infra 1, connectivity 1, code-review 1, docker-agents 1, context 1, hallucination 1, support 1, harness 1, windows 1, auth 1, memory 1, zh-billing 1, marketplace 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 # Round 22 notes — 2026-11-03 Asia/Shanghai
 
 
@@ -3603,7 +3610,7 @@ Fresh morning round after X daily reset. Rotate angles vs Round 24: multi-agent 
 
 ## Round 21 (2026-11-02)
 - Rows: pp-9445..pp-9820 (+376); categories: quota-billing 149, security-privacy 45, reliability-bug 32, agent-behavior 29, observability 17, ux-friction 15, tooling-integration 11, auth-access 11, permissions-sandbox 11, product-gap 7, memory-context 6, safety-policy 6, billing 5, workflow 5, enterprise-billing 4, team-admin 3, computer-use 3, support-ux 2, scheduling 2, model-quality 2, reliability 2, privacy-ux 1, migration-ux 1, cost-ux 1, agent-quality 1, multi-agent 1, local-tools 1, product-capability 1, mcp-tooling 1, onboarding 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 # Round 21 notes — 2026-11-02 Asia/Shanghai
 
 
@@ -3693,7 +3700,7 @@ Fresh morning round after X daily reset. Rotate angles vs Round 24: multi-agent 
 
 ## Round 19 (2026-10-31)
 - Rows: pp-8458..pp-9004 (+547); categories: quota 239, billing 72, reliability 71, workflow 58, feature-request 36, UX 8, ux 8, observability 7, feature-gap 7, integration 6, security 6, approval 5, bug 4, voice 4, cost 3, migration 3, account 2, context 1, permissions 1, quality 1, browser 1, performance 1, ToB 1, privacy 1, computer-use 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 # Round 19 notes — 2026-10-31 Asia/Shanghai
 
 ## Batch 1
@@ -4033,7 +4040,7 @@ Fresh morning round after X daily reset. Rotate angles vs Round 24: multi-agent 
 
 ## Round 17 (2026-10-29)
 - Rows: pp-8210..pp-8457 (+248); categories: quota 107, bug 21, workflow 17, UX 17, browser 13, permissions 12, observability 11, automation 11, reliability 10, cost 6, local-llm 4, skills 3, feature-request 3, quality 2, billing 2, account 2, rules 1, memory 1, multi-agent 1, scheduling 1, access 1, Windows 1, integration 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 # Round 17 notes — 2026-10-29 Asia/Shanghai
 
 ## Batch 1
@@ -4165,7 +4172,7 @@ Fresh morning round after X daily reset. Rotate angles vs Round 24: multi-agent 
 
 ## Round 16 (2026-10-28)
 - Rows: pp-8007..pp-8209 (+203); categories: bug 52, quota 47, cost 19, feature-request 18, UX 13, observability 10, reliability 10, permissions 6, rules 6, memory 6, workflow 5, multi-agent 3, model-routing 3, integration 2, tools 1, quality 1, plan-mode 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 # Round 16 notes — 2026-10-28 Asia/Shanghai
 
 ## Batch 1
@@ -4329,7 +4336,7 @@ Fresh morning round after X daily reset. Rotate angles vs Round 24: multi-agent 
 
 ## Round 15 (2026-10-27)
 - Rows: pp-7918..pp-8006 (+89); categories: quota 9, reliability 8, UX 8, bug 6, workflow 6, feature-request 6, context 6, testing 5, security 5, integration 5, billing 5, Windows 3, tools 3, quality 3, performance 3, review 2, browser 1, permissions 1, account 1, ToB 1, sandbox 1, safety 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 # Round 15 notes — 2026-10-27 Asia/Shanghai
 
 ## Batch 1
@@ -4424,7 +4431,7 @@ Fresh morning round after X daily reset. Rotate angles vs Round 24: multi-agent 
 
 ## Round 14 (2026-10-26)
 - Rows: pp-7815..pp-7917 (+103); categories: Cancel/refund friction 10, Agent infinite loop / retry storms 7, OSS agent frameworks 7, ZH/JA complaints 7, Security/prompt injection/exfil fears 6, Model router/auto mode wrong pick 6, git 5, Background/async/scheduled agent reliability 5, Status page/outage communication 5, Reply-thread dig (please fix / regression) 5, Image/screenshot understanding 4, browser 3, security 3, Telemetry/usage opacity 3, Docs generation spam 3, Multi-account / team switch / org 3, Collab/share thread/team visibility 3, permissions 2, memory 2, quality 2, Pair/handoff human↔agent 2, Devcontainer/Codespaces 2, JA IME/deep 2, File watcher / hot reload / format-on-save 2, bug 1, Debugging/breakpoints 1, CN coding agents 1, Prompt library / snippets / templates 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 ## Batch 1 — 2026-10-26 Asia/Shanghai (~08:13–finish)
 Themes: Long-term memory/preferences; tool permission/allowlist/approval; web search/browse failures; .cursorignore/ignore; git merge/branch by agent; slash commands/hooks; Tab/inline vs agent; npm/pip dependency disasters; ZH/JA variants.
 Added: pp-7815–pp-7832 (+18). Reads used this batch ≈23 (left 977/1000). Prefer quality over volume. Floor 100 intact.
@@ -4451,7 +4458,7 @@ Notable: Codex overnight burned 47% weekly quota / cron now 4× usage / schedule
 
 ## Round 13 (2026-10-25)
 - Rows: pp-7453..pp-7814 (+362); categories: bug 67, reliability 55, UX 43, workflow 33, quota 32, feature-request 20, multi-agent 12, product 12, cost 11, quality 11, billing 10, observability 6, pricing 5, integration 5, enterprise 5, onboarding 4, voice 3, feature-gap 3, account 3, data-loss 3, security 2, clarity 2, model-routing 1, tools 1, access 1, availability 1, context 1, privacy 1, multimodal 1, computer-use 1, performance 1, resource 1, trust 1, breaking-change 1, accessibility 1, configuration 1, permissions 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 # Round 13 notes
 
 ## Batch 1 — 2026-10-25 Asia/Shanghai (~08:09–finish)
@@ -4491,7 +4498,7 @@ Notable: Claude Code subagents inherit parent model / burn on grep chores / sear
 
 ## Round 12 (2026-10-24)
 - Rows: pp-7084..pp-7452 (+369); categories: Reliability 49, Agent Latency / Streaming 26, Feature Gap 17, UX 16, evals 13, Memory / Preferences 13, Browser 12, Safety 12, Context Window UX 12, Context 11, Billing 9, Docs 9, Background / Async Agents 9, Integration 8, Performance 8, OSS Agent Frameworks 8, Scheduling / Routines 7, Migrate / Switch Friction 7, Design / Figma Agents 7, workflow 6, Privacy 6, Multimodal 6, I18n / Region 6, Hotfix / Incident 6, mobile 5, Observability 5, Sandbox 5, Deploy / DevOps Agents 5, feature-request 4, model-routing 4, Workflow 4, Enterprise 4, Agent Evals 4, Content / Research Agents 4, Tool Permission Granularity 4, Education / Student Agents 4, multi-agent 3, approvals 3, Quality 3, Account 3, Data / SQL Agents 3, quota 2, Collaboration 2, Security 2, Cost 2, Inline / Pair UX 2, Accessibility 2, access 1, agent-behavior 1, permissions 1, bug 1, cloud-agent 1, reliability 1, Permissions 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 Round 12 batch 1 (2026-10-24 Asia/Shanghai): +50 (pp-7084–pp-7133). Themes: evals/false-done (assert True, deleted/emptied tests, green≠prod, unseen UI “looks great”, JA/ZH 假完成); mobile (Claude/Cursor/Codex/Grok Bot phone gaps, stop-ignored cloud hang); diff/accept (auto-accept vault/cart damage, force-push+lie, wrong branch, push-to-main); model routing (BYOK flip, auto→Composer, JA silent Fable→Opus, auto-mode sed/no-diff); cancel/resume (Stop missing/ignored, runaway subagents, unwanted auto-resume, Codex can’t resume after cyber-risk compaction). Reads: morning dumps ingested +4 fill searches; stats calls=4412 scanned=94887 left≈909 (of 1000). No push prior to this batch. Stopped with solid keeps; left still >880 so spare day budget remains for later batches (never below ~100).
 Round 12 batch 2 (2026-10-24 Asia/Shanghai): +54 (pp-7134–pp-7187). Themes: underused products first-person (Cline stuck/crash/quota; Windsurf Cascade disabled post-migrate; Devin ACP/Loop;/OpenCode OAuth-MCP+stop+slow; Warp update-blocked/crash/session-loss/onboarding; Amp OOTB+orb-init+banked-reset; Zed diff-view+thread persist; Goose model dropdown; Factory/Kimi tool-loop); git/PR agents (CodeRabbit FP/noise; rebase/merge-conflict token burns; parallel-agent conflicts; Roo approval bypass); compaction/skills (idle compact lost context; mid-task amnesia; skill-map stripped / skills truncated to first 5k); collab (can't save full session for teammate handoff); MCP/connectors beyond OAuth (Slack deaf+over-scope; Linear token burn/rerun; wrong-tool/shadowing; silent MCP timeout; Notion agent automations/threads/Kimi stuck); ZH/JA (Codex compact/amnesia/handoff; multi-agent skill drift; JA garble+compression fail). Reads used ~73 (left≈836 of 1000); spare day budget remains for later batches (never below ~100). Queries: raw/r12_b2_queries.txt.
 Round 12 batch 3 (2026-10-24 Asia/Shanghai): +70 (pp-7188–pp-7257). Themes: local/offline/self-host (LM Studio/Codex file open fail; Cline+Ollama 24GB slow; quant tool-call drift; Hermes/Ollama slow; ZH TTFT/VRAM; JA Claude remote≠local LLM; air-gapped missing tools; WeChat no-upload vs no local model); Grok Bot/Build (no tray→disconnect; X sign-in/unify; Tesla/old-account sync; Imagine gap; Pages blocked in group chat; computer reset wipe; inbox claim disabled/missing tool; Shopify login; transcript handoff cost; email feature dead; Grok Build 500); computer-use/browser (Gemini Spark captcha; ChatGPT credential resume; Claude CU blocks you; cmd/download restrictions; click-hold/Cloudflare captcha; Windows window lock; Dot login fail; Mac locked CU; Codex download loop; Edge login mismatch; site blocks; false Saved); privacy training-toggle confusion (Improve-the-model ≠ master/Codex opt-out); BYOK/API vs sub surprises (8.37M tokens, Cline OpenRouter costlier, 81x/44x sub vs API, $2k loop bill); Skills/Projects/Artifacts/Custom GPT (Projects≠Code terminal/burn/local env; Artifacts invisible to Code; T3 no Artifacts; Custom GPT invoke/killing/JA constraints; skill copies drift; skill.md not loading; Dot≠Projects). ZH/JA fresh. Reads used ~119 (left≈717 of 1000); stop band ~700–720. Queries: raw/r12_b3_queries.txt.
@@ -4501,7 +4508,7 @@ Round 12 batch 6 (2026-10-24 Asia/Shanghai): +79 (pp-7374–pp-7452). Themes: ag
 
 ## Round 11 (2026-10-23)
 - Rows: pp-6507..pp-7083 (+577); categories: reliability 117, quota 107, billing 56, ux 32, account 31, cost 30, integrations 27, permissions 23, scheduling 14, voice 12, integration 11, UX 11, feature-request 10, security 8, feature_request 8, observability 8, privacy 8, multiagent 7, quality 7, feature 7, support 6, memory 6, ToB 5, connectors 4, pricing 3, availability 3, bug 3, workflow 3, accessibility 2, tools 2, browser 2, team 1, safety 1, collaboration 1, configuration 1
-- X reads today (2026-11-10): 103 used / 897 left (daily cap 1000)
+- X reads today (2026-11-10): 154 used / 846 left (daily cap 1000)
 ## Round 11 batch 1 — 2026-10-23 Asia/Shanghai
 Fresh Day17 (Tibo reset) + Claude auto-mode-default seeds dominated yield. Dominant new theme: **Codex/ChatGPT banked resets blocked by "Your usage does not need a reset"** when % remaining high (80–95%), causing cards to expire unused—often after a forced global reset hours earlier. Strong secondary themes: Grok Bot phone-app access (foreground-only; missing Messages/Health/Mail/iCloud/Android home; email address permanent one-per-account); Dot/Codex credit drain with no app visibility; Claude Cowork/auto-mode permission UX (Always Allow broken for G-Drive; bypass for cloud projects; subagent spawn stuck); agent false-success (delete failing tests / ||1==1); ZH/JA quota & intelligence-drop complaints; AmpCode/OpenCode reliability & billing; Devin↔ChatGPT quota linkage confusion; X Super merge lockouts. Undercovered products (Warp/Zed/Kiro/Trae/Qoder/Devin Oncall) mostly noise or sparse. Reads used ~106 (left≈893 of 1000). Aim stop was 860–880; stopped early after solid 252 keeps to preserve day budget.
 
