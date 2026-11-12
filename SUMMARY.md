@@ -1,11 +1,11 @@
 # X User Pain Points — AI agents / assistants / coding agents
 
-Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-2687; Round 8 (2026-10-18) = pp-2688..pp-4755; Round 9 (2026-10-21) = pp-4756..pp-5805; Round 10 (2026-10-22) = pp-5806..pp-6506; Round 11 (2026-10-23) = pp-6507..pp-7083; Round 12 (2026-10-24) = pp-7084..pp-7452; Round 13 (2026-10-25) = pp-7453..pp-7814; Round 14 (2026-10-26) = pp-7815..pp-7917; Round 15 (2026-10-28) = pp-7918..pp-8006; Round 16 (2026-10-28) = pp-8007..pp-8209; Round 17 (2026-10-29) = pp-8210..pp-8457; Round 18 (2026-10-30) = 0 rows (failed); Round 19 (2026-10-31) = pp-8458..pp-9004; Round 20 (2026-11-01) = pp-9005..pp-9444; Round 21 (2026-11-02) = pp-9445..pp-9820; Round 22 (2026-11-03) = pp-9821..pp-10251; Round 23 (2026-11-04) = pp-10252..pp-10643; Round 24 (2026-11-05) = pp-10644..pp-11091; Round 25 (2026-11-06) = pp-11092..pp-11598; Round 26 (2026-11-07) = pp-11599..pp-12117; Round 27 (2026-11-08) = pp-12118..pp-12412; Round 28 (2026-11-09) = pp-12413..pp-12754; Round 29 (2026-11-10) = pp-12755..pp-13040; Round 30 (2026-11-11) = pp-13041..pp-13196; Round 31 (2026-11-12) = pp-13197..pp-13226
+Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1552; Round 6 top-up = pp-1553..pp-1660; Round 7 (2026-10-17) = pp-1661..pp-2687; Round 8 (2026-10-18) = pp-2688..pp-4755; Round 9 (2026-10-21) = pp-4756..pp-5805; Round 10 (2026-10-22) = pp-5806..pp-6506; Round 11 (2026-10-23) = pp-6507..pp-7083; Round 12 (2026-10-24) = pp-7084..pp-7452; Round 13 (2026-10-25) = pp-7453..pp-7814; Round 14 (2026-10-26) = pp-7815..pp-7917; Round 15 (2026-10-28) = pp-7918..pp-8006; Round 16 (2026-10-28) = pp-8007..pp-8209; Round 17 (2026-10-29) = pp-8210..pp-8457; Round 18 (2026-10-30) = 0 rows (failed); Round 19 (2026-10-31) = pp-8458..pp-9004; Round 20 (2026-11-01) = pp-9005..pp-9444; Round 21 (2026-11-02) = pp-9445..pp-9820; Round 22 (2026-11-03) = pp-9821..pp-10251; Round 23 (2026-11-04) = pp-10252..pp-10643; Round 24 (2026-11-05) = pp-10644..pp-11091; Round 25 (2026-11-06) = pp-11092..pp-11598; Round 26 (2026-11-07) = pp-11599..pp-12117; Round 27 (2026-11-08) = pp-12118..pp-12412; Round 28 (2026-11-09) = pp-12413..pp-12754; Round 29 (2026-11-10) = pp-12755..pp-13040; Round 30 (2026-11-11) = pp-13041..pp-13196; Round 31 (2026-11-12) = pp-13197..pp-13230
 
 ## Stats
-- Total rows: 13226 (round 31 added 30)
-- Language split (all): {'en': 10701, 'zh': 1553, 'other': 1, 'ja': 954, 'pt': 5, 'es': 5, 'ko': 7}
-- Language split (round 31): {'en': 15, 'ja': 14, 'es': 1}
+- Total rows: 13230 (round 31 added 34)
+- Language split (all): {'en': 10704, 'zh': 1553, 'other': 1, 'ja': 955, 'pt': 5, 'es': 5, 'ko': 7}
+- Language split (round 31): {'en': 18, 'ja': 15, 'es': 1}
 - Language split (round 20): {'en': 306, 'zh': 121, 'ja': 13}
 - Language split (round 21): {'en': 285, 'zh': 52, 'ja': 39}
 - Language split (round 27): {'en': 238, 'ja': 25, 'zh': 32}
@@ -31,15 +31,15 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 - Language split (round 7): {'en': 869, 'zh': 120, 'ja': 38}
 - Language split (round 6): {'en': 89, 'zh': 17, 'ja': 2}
 - Language split (round 5): {'en': 523, 'ja': 30, 'zh': 40}
-- X reads today (2026-11-12): 164 used / 836 left (daily cap 1000)
-- Cumulative search calls: 16022; cumulative posts scanned: 322181
+- X reads today (2026-11-12): 215 used / 785 left (daily cap 1000)
+- Cumulative search calls: 16073; cumulative posts scanned: 322451
 
 ## Category counts (all rows)
 - quota: 2151
 - reliability: 1663
 - UX: 896
-- billing: 861
-- integration: 603
+- billing: 862
+- integration: 604
 - workflow: 499
 - cost: 358
 - permissions: 297
@@ -49,11 +49,11 @@ Rounds: 1–4 = pp-1..pp-959; Round 5 (2026-10-16, Asia/Shanghai) = pp-960..pp-1
 - security: 253
 - account: 245
 - observability: 241
-- quality: 230
+- quality: 231
 - memory: 224
 - feature-request: 215
 - tools: 199
-- voice: 159
+- voice: 160
 - ux: 156
 - multi-agent: 137
 - context: 133
